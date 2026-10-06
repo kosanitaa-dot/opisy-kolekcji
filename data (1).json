@@ -1,0 +1,1427 @@
+{
+ "updated": "2026-10-06T12:46:34.448788Z",
+ "sheets": [
+  {
+   "name": "all",
+   "columns": [
+    {
+     "key": "c0",
+     "label": "Lp."
+    },
+    {
+     "key": "c1",
+     "label": "nazwa kolekcji"
+    },
+    {
+     "key": "c2",
+     "label": "rok"
+    },
+    {
+     "key": "c3",
+     "label": "opis"
+    },
+    {
+     "key": "c4",
+     "label": "eng"
+    },
+    {
+     "key": "c5",
+     "label": "funkcja"
+    },
+    {
+     "key": "c6",
+     "label": "key sales points"
+    }
+   ],
+   "rows": [
+    {
+     "c0": "1",
+     "c1": "ADVENTURE",
+     "c2": "2025",
+     "c3": "Kolekcja utkana z miękkiej przędzy boucle. Charakter nadaje jej wielokolorowa nitka, składająca się z 3–4 osobno barwionych przędz, które tworzą nieregularny i organiczny wzór na powierzchni. Paleta kolorystyczna obejmuje zarówno szlachetne, stonowane połączenia, jak i barwy nasycone oraz zaskakujące. Dobrze komponuje się ze stylami Soft Minimalizm, Soft Brutalizm i Eklektyzm.",
+     "c4": "A collection woven from soft boucle yarn. Its character is defined by multicoloured threads made of 3–4 individually dyed fibres that create an irregular, organic surface pattern. The colour palette ranges from refined combinations to rich, saturated and surprising contrasts. Perfectly complements styles such as Soft Minimalism, Soft Brutalism, and Eclecticism.",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "2",
+     "c1": "ALOVA",
+     "c2": "≤2015",
+     "c3": "",
+     "c4": "",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "3",
+     "c1": "ARAGON",
+     "c2": "2023",
+     "c3": "Wielotonowa, melanżowa i miękka w dotyku tkanina o pięknej gamie kolorystycznej.\nARAGON to tkanina o właściwościach utrudniających wchłanianie rozlanych płynów. Pokryta jest specjalną warstwą ochronną, tworzącą hydrofobową powłokę. Połączenie designu z praktyczną stroną użytkowania.",
+     "c4": "A multi-tonal melange fabric, soft to the touch, in a beautiful colour palette.\nARAGON features a Water Repellent finish: a special protective coating forms a hydrophobic layer that helps prevent spilled liquids from soaking in quickly. Design combined with everyday practicality.",
+     "c5": "WR",
+     "c6": ""
+    },
+    {
+     "c0": "4",
+     "c1": "AULLA",
+     "c2": "2022",
+     "c3": "Piękna i miękka tkanina szenilowa wykonana w 100% z przędzy poliestrowej pochodzącej z recyklingu (rPES). Połączenie materiału z recyklingu z designem zgodnym z najnowszymi trendami wnętrzarskimi. Delikatny wzór geometryczny idealnie podkreśla starannie wyselekcjonowane kolory tej niezwykłej kolekcji. Aulla jest kolekcją rPES. Oznacza to, że przy jej produkcji użyto przędzy wykonanej z tworzyw sztucznych pochodzących z recyklingu.",
+     "c4": "A beautiful, soft chenille fabric made from 100% recycled polyester yarn (rPES). It pairs recycled material with a design that follows the latest interior trends. A delicate geometric pattern beautifully highlights the carefully selected colours of this remarkable collection. AULLA is an rPES collection, which means it is produced using yarn made from recycled plastics.",
+     "c5": "rPES",
+     "c6": ""
+    },
+    {
+     "c0": "5",
+     "c1": "BARREL",
+     "c2": "2023",
+     "c3": "BARREL zachwyca prostotą i uniwersalnym charakterem. Minimalistyczna struktura plecionki i klasyczny wygląd sprawiają, że tkanina łatwo odnajduje się w różnorodnych aranżacjach, a szeroka gama kolorystyczna pozwala dopasować ją do każdego wnętrza. Podkład NW zapewnia wytrzymałość i praktyczność, nie odbierając przy tym wyjątkowej miękkości.\nBARREL posiada funkcję Easy Clean. Tkanina wykończona jest specjalną apreturą ułatwiającą usuwanie zabrudzeń. Pozwala usunąć większość codziennych zabrudzeń samą wodą i szarym mydłem bez detergentów i rozpuszczalników. To propozycja dla miłośników subtelnej elegancji, którzy na co dzień cenią funkcjonalność.",
+     "c4": "BARREL captivates with its simplicity and versatile character. Its minimalist woven structure and classic look allow it to fit effortlessly into a wide range of interiors, while a broad colour palette makes it easy to match any space. The NW backing makes the fabric durable and practical without compromising its exceptional softness.\nBARREL features an Easy Clean function. The fabric is finished with a special treatment that makes dirt easier to remove. Most everyday stains can be removed with just water and grey soap - no detergents or solvents. A choice for lovers of understated elegance who value everyday functionality.",
+     "c5": "EC",
+     "c6": ""
+    },
+    {
+     "c0": "6",
+     "c1": "BERGAMO",
+     "c2": "2016",
+     "c3": "",
+     "c4": "",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "7",
+     "c1": "BERLINNEW",
+     "c2": "≤2015",
+     "c3": "",
+     "c4": "",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "8",
+     "c1": "CANYON",
+     "c2": "2018",
+     "c3": "",
+     "c4": "",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "9",
+     "c1": "CASTEL",
+     "c2": "2022",
+     "c3": "Mięsista i niezwykle miła w dotyku dzianina velvetowa. Kolekcję CASTEL cechuje bardzo naturalny, delikatny i subtelny wzór, a efekt „cloudy” dodaje kolekcji wyjątkowego wydźwięku. Szeroka i matowa gama kolorystyczna rewelacyjnie sprawdzi się w każdym wnętrzu. CASTEL posiada funkcję Easy Clean. Tkanina wykończona jest specjalną apreturą ułatwiającą usuwanie zabrudzeń. Pozwala usunąć większość codziennych zabrudzeń samą wodą i szarym mydłem bez detergentów i rozpuszczalników.",
+     "c4": "A plush velvet knit that is exceptionally pleasant to the touch. CASTEL features a very natural, delicate and subtle pattern, while the “cloudy” effect gives the collection a distinctive character. The broad, matte colour palette works wonderfully in any interior. CASTEL features an Easy Clean function. The fabric is finished with a special treatment that makes dirt easier to remove. Most everyday stains can be removed with just water and grey soap — no detergents or solvents.",
+     "c5": "EC",
+     "c6": ""
+    },
+    {
+     "c0": "10",
+     "c1": "CITY",
+     "c2": "2021",
+     "c3": "",
+     "c4": "",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "11",
+     "c1": "CLOUD",
+     "c2": "2021",
+     "c3": "Niezwykle przyjemna w dotyku, mięsista dzianina velvetowa. Bardzo delikatny, nakrapiany wzór w połączeniu z efektem „cloud” sprawia, że dzianina jest nietuzinkowa i bardzo trendowa. Piękne, matowe kolory podkreślają walory kolekcji. CLOUD posiada funkcję Easy Clean. Tkanina wykończona jest specjalną apreturą ułatwiającą usuwanie zabrudzeń. Pozwala usunąć większość codziennych zabrudzeń samą wodą i szarym mydłem — bez detergentów i rozpuszczalników.",
+     "c4": "An exceptionally soft, plush velvet knit. A very delicate speckled pattern combined with the “cloud” effect makes this knit distinctive and highly on-trend. Beautiful matte colours bring out the best in the collection. CLOUD features an Easy Clean function. The fabric is finished with a special treatment that makes dirt easier to remove. Most everyday stains can be removed with just water and grey soap — no detergents or solvents.",
+     "c5": "EC",
+     "c6": ""
+    },
+    {
+     "c0": "12",
+     "c1": "COCO",
+     "c2": "2023",
+     "c3": "Kwintesencja elegancji i szyku. Ta ikoniczna kolekcja jest zaproszeniem do niebanalnego stylu i odważnego charakteru we wnętrzu. Plecionka, której charakteru dodaje nie tylko niejednolity kolor, ale i wpleciona przędza boucle, dzięki której COCO jest niezwykle trendy.",
+     "c4": "The quintessence of elegance and chic. This iconic collection is an invitation to distinctive style and bold character in the interior. A woven fabric whose character comes not only from its non-uniform colour but also from the interwoven bouclé yarn, which makes COCO exceptionally on-trend.",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "13",
+     "c1": "CORTO",
+     "c2": "2025",
+     "c3": "Krótkie, eleganckie futerko – tak można opisać CORTO. Gęste, aksamitne włosie bez podkładu i matowe wykończenie nadają tkaninie wyjątkowy komfort. Barwy kolekcji to ciepłe klasyki: krem, czekoladowy brąz, camel, szałwia, pudrowy róż. CORTO sprawdza się zarówno jako tkanina użytkowa, jak i dekoracyjna – zawsze tworzy klimat przytulności i łagodności.",
+     "c4": "CORTO can be described as short, elegant faux fur. Its dense, velvety pile without backing and matte finish create an exceptionally soft and comfortable texture. The colour palette includes warm classics — cream, chocolate brown, camel, sage, and powder pink. CORTO works beautifully as both an upholstery and decorative fabric, always bringing warmth and softness to any interior.",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "14",
+     "c1": "COVER",
+     "c2": "2018",
+     "c3": "",
+     "c4": "",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "15",
+     "c1": "CREMONA",
+     "c2": "2024",
+     "c3": "Cremona to miękka w dotyku tkanina szenilowa o jedwabistym połysku. Jej wyraźny efekt trójwymiarowy i dojrzała paleta kolorystyczna sprawiają, że doskonale wpisuje się zarówno w tradycyjne, jak i współczesne, bogatsze odsłony stylu Mid Century. Pięknie harmonizuje z ciemnym, ciepłym drewnem, mosiądzem czy kamieniem o mocnym rysunku.",
+     "c4": "CREMONA is a soft chenille fabric with a silky sheen. Its pronounced three-dimensional effect and mature colour palette make it a perfect fit for both traditional and contemporary, richer interpretations of the Mid-Century style. It pairs beautifully with dark, warm wood, brass and boldly patterned stone.",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "16",
+     "c1": "CURIO",
+     "c2": "2023",
+     "c3": "Kolekcja CURIO to sztruksowa dzianina o wzorze z efektem 3D. Kolekcja cechująca się mocnymi, nasyconymi kolorami, bardzo miła w dotyku. CURIO to tkanina o właściwościach utrudniających wchłanianie rozlanych płynów. Pokryta jest specjalną warstwą ochronną, tworzącą hydrofobową powłokę. Połączenie designu z praktyczną stroną użytkowania.",
+     "c4": "CURIO is a corduroy knit with a 3D-effect pattern. The collection features bold, saturated colours and is very pleasant to the touch. CURIO features a Water Repellent finish: a special protective coating forms a hydrophobic layer that helps prevent spilled liquids from soaking in quickly. Design combined with everyday practicality.",
+     "c5": "WR",
+     "c6": ""
+    },
+    {
+     "c0": "17",
+     "c1": "DIOSA",
+     "c2": "2021",
+     "c3": "Piękna trójwymiarowa tkanina. Dzięki niespotykanej kombinacji – połączeniu dwóch nici w kontrastowych odcieniach tego samego koloru – kolekcja ta jest wyjątkowa. Bogata gama kolorystyczna i pastelowe wybarwienie podkreślają jej charakter.\nKolekcja posiada funkcję Easy Clean. Tkanina wykończona jest specjalną apreturą ułatwiającą usuwanie zabrudzeń. Pozwala usunąć większość codziennych zabrudzeń samą wodą i szarym mydłem — bez detergentów i rozpuszczalników.",
+     "c4": "A beautiful three-dimensional fabric. Thanks to an unusual combination – two threads in contrasting shades of the same colour – this collection is truly unique. A rich colour range and pastel tones emphasise its character.\nThe collection features an Easy Clean function. The fabric is finished with a special treatment that makes dirt easier to remove. Most everyday stains can be removed with just water and grey soap — no detergents or solvents.",
+     "c5": "EC",
+     "c6": ""
+    },
+    {
+     "c0": "18",
+     "c1": "DOT LN",
+     "c2": "≤2015",
+     "c3": "",
+     "c4": "",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "19",
+     "c1": "ELEGANT WISH",
+     "c2": "2023",
+     "c3": "Spełniaj swoje życzenia i nadawaj stylu temu, co cię otacza. Kolekcja ELEGANT WISH to bardzo miękka i miła w dotyku tkanina boucle. Tkanina żakardowa, wykonana z miksu przędz w różnych kolorach, dających ciekawy, melanżowy efekt. ELEGANT WISH ma starannie dobraną linię kolorystyczną, co pozwala na ciekawe zastosowanie tej kolekcji we wnętrzach.",
+     "c4": "Fulfil your wishes and bring style to everything around you. ELEGANT WISH is a very soft bouclé fabric, pleasant to the touch. A jacquard fabric made from a mix of yarns in different colours, creating an interesting melange effect. Its carefully curated colour line allows for creative use of the collection in interiors.",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "20",
+     "c1": "ETNA LN",
+     "c2": "≤2015",
+     "c3": "",
+     "c4": "",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "21",
+     "c1": "FANCY",
+     "c2": "2019",
+     "c3": "Interesująca tkanina velvetowa z nadrukowanym subtelnym wzorem. Bardzo szeroka gama kolorystyczna i ciekawe odcienie pozwolą uzupełnić i podkreślić każde wnętrze.\nFancy to tkanina o właściwościach utrudniających wchłanianie rozlanych płynów. Pokryta jest specjalną warstwą ochronną, tworzącą hydrofobową powłokę zabezpieczającą przed szybkim przesiąkaniem płynów.",
+     "c4": "An interesting velvet fabric with a subtle printed pattern. A very wide colour range and interesting shades help complement and enhance any interior.\nFANCY features a Water Repellent finish: a special protective coating forms a hydrophobic layer that helps prevent spilled liquids from soaking in quickly.",
+     "c5": "WR",
+     "c6": ""
+    },
+    {
+     "c0": "22",
+     "c1": "GAVA",
+     "c2": "2023",
+     "c3": "Kolekcja GAVA to tkanina wykonana z przędzy pozyskanej z butelek PET z recyklingu. Jest plecionką o naturalnym wyglądzie. Nowoczesna w wyrazie, o starannie dobranej, szerokiej gamie kolorystycznej.\nKolekcja GAVA wykonana jest w 100% z przędzy uzyskanej z tworzyw sztucznych pochodzących z recyklingu. Jej ogromną zaletą jest połączenie rPES z funkcją Water Repellent. Kolekcja GAVA pokryta jest specjalną warstwą ochronną, tworzącą hydrofobową powłokę zabezpieczającą przed szybkim przesiąkaniem płynów. Połączenie materiału z recyklingu i designu z praktyczną stroną użytkowania.",
+     "c4": "GAVA is a fabric made from yarn obtained from recycled PET bottles. It is a woven fabric with a natural look – modern in expression, with a carefully selected, wide colour range.\nGAVA is made from 100% yarn obtained from recycled plastics.  Its great advantage is the combination of rPES with a Water Repellent function: a special protective coating forms a hydrophobic layer that helps prevent liquids from soaking in quickly. Recycled material and design combined with everyday practicality.",
+     "c5": "WR+rPES",
+     "c6": ""
+    },
+    {
+     "c0": "23",
+     "c1": "GEMMA",
+     "c2": "2021",
+     "c3": "Miękka i bardzo ciekawa plecionka. Połączenie trójkolorowej, idealnie współgrającej ze sobą przędzy, tworzy delikatny, subtelny melanż. Wykonana z przeplatanych wielobarwnych nici. Bardzo bogata gama kolorystyczna o stonowanym i delikatnym wzorze. Tkanina bardzo przyjemna w dotyku. Ponadczasowa i elegancka, wpasuje się w każdy rodzaj mebla. Dodatkowo Gemma to tkanina o właściwościach utrudniających wchłanianie rozlanych płynów. Pokryta jest specjalną warstwą ochronną, tworzącą hydrofobową powłokę zabezpieczającą przed szybkim przesiąkaniem płynów.",
+     "c4": "A soft and very interesting woven fabric. A blend of three harmoniously matched yarn colours creates a delicate, subtle melange. Made from interwoven multicoloured threads, it comes in a very rich colour range with a muted, delicate pattern. Very pleasant to the touch. Timeless and elegant, it suits any type of furniture. GEMMA also features a Water Repellent finish: a special protective coating forms a hydrophobic layer that helps prevent spilled liquids from soaking in quickly.",
+     "c5": "WR",
+     "c6": ""
+    },
+    {
+     "c0": "24",
+     "c1": "GOBI",
+     "c2": "≤2015",
+     "c3": "",
+     "c4": "",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "25",
+     "c1": "GRACE",
+     "c2": "2020",
+     "c3": "GRACE to szlachetna plecionka o grubym, charakterystycznym splocie z wielokolorowej przędzy. Inspirowana naturą, dobrze komponuje się zarówno z klasycznymi, jak i nowoczesnymi wnętrzami. 70% zastosowanej przędzy stanowi rPES pochodzący z recyklingu. Kolekcja łączy design z funkcjonalnością. GRACE posiada funkcję Easy Clean. Tkanina wykończona jest specjalną apreturą ułatwiającą usuwanie zabrudzeń. Pozwala usunąć większość codziennych zabrudzeń samą wodą i szarym mydłem — bez detergentów i rozpuszczalników.",
+     "c4": "GRACE is a refined woven fabric with a thick, distinctive weave made from multicoloured yarn. Inspired by nature, it blends well with both classic and modern interiors. 70% of the yarn used is recycled rPES. The collection combines design with functionality. GRACE features an Easy Clean function. The fabric is finished with a special treatment that makes dirt easier to remove. Most everyday stains can be removed with just water and grey soap — no detergents or solvents.",
+     "c5": "EC+rPES",
+     "c6": ""
+    },
+    {
+     "c0": "26",
+     "c1": "GRANDE",
+     "c2": "2018",
+     "c3": "Mięsista i bardzo miękka tkanina szenilowa o niebanalnej linii kolorystycznej, uzyskanej dzięki multikolorowej przędzy. Wyrazista struktura w połączeniu z intrygującą paletą kolorów z całą pewnością podkreśli charakter każdego wnętrza.\nKolekcja posiada funkcję Easy Clean. Tkanina wykończona jest specjalną apreturą ułatwiającą usuwanie zabrudzeń. Pozwala usunąć większość codziennych zabrudzeń samą wodą i szarym mydłem — bez detergentów i rozpuszczalników.",
+     "c4": "A plush, very soft chenille fabric with a distinctive colour line created with multicoloured yarn. Its expressive structure combined with an intriguing colour palette will enhance the character of any interior.\nThe collection features an Easy Clean function. The fabric is finished with a special treatment that makes dirt easier to remove. Most everyday stains can be removed with just water and grey soap — no detergents or solvents.",
+     "c5": "EC",
+     "c6": ""
+    },
+    {
+     "c0": "27",
+     "c1": "GUSTO LN",
+     "c2": "2017",
+     "c3": "",
+     "c4": "",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "28",
+     "c1": "HYGGE",
+     "c2": "2022",
+     "c3": "",
+     "c4": "",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "29",
+     "c1": "INARI",
+     "c2": "≤2015",
+     "c3": "",
+     "c4": "",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "30",
+     "c1": "JASMINE",
+     "c2": "≤2015",
+     "c3": "",
+     "c4": "",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "31",
+     "c1": "LANDSCAPE",
+     "c2": "2025",
+     "c3": "Tkanina typu alcantara, znana ze swojej wytrzymałości. Cechą charakterystyczną jest niskie runo, które nadaje jej jedwabisty charakter i lekki elegancki połysk. Landscape jest barwiona w masie, a jej struktura oraz użycie przędzy mikrofibrowej pozwala na piękne nasycone kolory. Idealnie pasuje do stylów Mid Century, Soft Minimalizm, Soft Brutalizm oraz Eklektyzm.",
+     "c4": "LANDSCAPE is an alcantara-type fabric known for its durability and luxurious feel. Its short, smooth pile gives it a silky look and a subtle elegant sheen. Solution-dyed and made with microfibre yarn, it achieves rich, saturated colours with remarkable depth. Perfect for interiors in Mid-Century, Soft Minimalist, Soft Brutalist, and Eclectic styles.",
+     "c5": "WR",
+     "c6": ""
+    },
+    {
+     "c0": "32",
+     "c1": "LARS",
+     "c2": "2020",
+     "c3": "LARS to strukturalna tkanina o nowoczesnym, stonowanym wyglądzie. Starannie dobrana paleta kolorów łączy neutralne odcienie z głębszymi tonami, co nadaje jej ponadczasowy i wszechstronny charakter. LARS podkreśla formę mebli wytrzymałą fakturą i elegancją, doskonale komponując się z wnętrzami w stylu minimalistycznym i nowoczesnym.",
+     "c4": "LARS is a structured fabric with a modern, understated look. Its carefully selected colour palette combines neutral shades with deeper tones, giving it a timeless and versatile character. LARS highlights furniture forms with its durable texture and elegance, blending seamlessly with minimalist and modern interiors.",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "33",
+     "c1": "LETTO",
+     "c2": "2021",
+     "c3": "Piękna i miękka w dotyku tkanina velvetowa. Bardzo delikatny wzór dodaje jej niebanalnego, ale zarazem subtelnego charakteru. Tzw. efekt „cloud” dodaje kolekcji klasycznego wydźwięku. Szeroka gama kolorystyczna pozwoli na dopasowanie mebla do każdego wnętrza. Niezwykłą zaletą tkaniny jest połączenie funkcjonalności Easy Clean i Pet Friendly. Tkanina wykończona jest specjalną apreturą ułatwiającą usuwanie zabrudzeń. Pozwala usunąć większość codziennych zabrudzeń samą wodą i szarym mydłem — bez detergentów i rozpuszczalników. Funkcja Pet Friendly ułatwia usuwanie sierści, ograniczając jej wbijanie się w strukturę tkaniny.",
+     "c4": "A beautiful velvet fabric, soft to the touch. A very delicate pattern gives it a distinctive yet subtle character, while the so-called “cloud” effect adds a classic touch. The wide colour range makes it easy to match furniture to any interior. A remarkable advantage of the fabric is the combination of Easy Clean and Pet Friendly functions. The fabric is finished with a special treatment that makes dirt easier to remove. Most everyday stains can be removed with just water and grey soap — no detergents or solvents. The Pet Friendly function makes pet hair easier to remove, reducing the extent to which it becomes embedded in the fabric.",
+     "c5": "EC+PF",
+     "c6": ""
+    },
+    {
+     "c0": "34",
+     "c1": "LINCOLN D",
+     "c2": "2024",
+     "c3": "LINCOLN D to elegancka dzianina typu sztruks, charakteryzująca się szerokimi prążkami (około 10 mm). Jej miękka i mięsista struktura nadaje meblom wyjątkowego komfortu. Dostępna w szerokiej gamie kolorystycznej, doskonale sprawdzi się w różnorodnych aranżacjach wnętrz, dodając im ciepła i elegancji.",
+     "c4": "LINCOLN D is an elegant corduroy knit with wide ribs (approx. 10 mm). Its soft, plush structure makes furniture exceptionally comfortable. Available in a wide range of colours, it works well in a variety of interior arrangements, adding warmth and elegance.",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "35",
+     "c1": "LINCOLN LN",
+     "c2": "2023",
+     "c3": "LINCOLN LN to miękka tkanina o charakterystycznej, prążkowanej strukturze inspirowanej sztruksem, która nadaje meblom ciepły i przytulny wygląd. Łączy komfortowy charakter z wysoką trwałością, dzięki czemu jest stylowym i praktycznym wyborem do codziennych wnętrz.",
+     "c4": "LINCOLN LN is a soft woven corduroy-style fabric with a distinctive ribbed texture that gives furniture a warm and inviting look. Combining a cosy feel with high durability, it is a stylish and practical choice for everyday interiors.",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "37",
+     "c1": "LORIS",
+     "c2": "2021",
+     "c3": "",
+     "c4": "",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "38",
+     "c1": "LUIS",
+     "c2": "2022",
+     "c3": "Tkanina strukturalna, z przędzy mieszanej o bardzo naturalnym wyglądzie i pięknym plecionym wzorze, przypominającym plaster miodu. Kolekcja w bogatej gamie kolorystycznej pięknie podkreślająca bryłę mebla. Dodatkowo LUIS to tkanina o właściwościach utrudniających wchłanianie rozlanych płynów. Pokryta jest specjalną warstwą ochronną, tworzącą hydrofobową powłokę zabezpieczającą przed szybkim przesiąkaniem płynów.",
+     "c4": "A structured fabric made from mixed yarn, with a very natural look and a beautiful woven pattern reminiscent of a honeycomb. The collection comes in a rich colour range that beautifully highlights the shape of furniture. LUIS also features a Water Repellent finish: a special protective coating forms a hydrophobic layer that helps prevent spilled liquids from soaking in quickly.",
+     "c5": "WR",
+     "c6": ""
+    },
+    {
+     "c0": "39",
+     "c1": "LUKKA",
+     "c2": "2023",
+     "c3": "Strukturalna, gruba plecionka o melanżowym, dwutonowym wyglądzie. Trendowa kolekcja, miła w dotyku o naturalnej, stonowanej kolorystyce. LUKKA to tkanina o właściwościach utrudniających wchłanianie rozlanych płynów. Pokryta jest specjalną warstwą ochronną, tworzącą hydrofobową powłokę. Połączenie designu z praktyczną stroną użytkowania.",
+     "c4": "A thick, structured woven fabric with a two-tone melange look. An on-trend collection, pleasant to the touch, in natural, muted colours. LUKKA features a Water Repellent finish: a special protective coating forms a hydrophobic layer that helps prevent spilled liquids from soaking in quickly. Design combined with everyday practicality.",
+     "c5": "WR",
+     "c6": ""
+    },
+    {
+     "c0": "40",
+     "c1": "LUMI",
+     "c2": "2025",
+     "c3": "LUMI to plecionka, która mieni się kolorem i światłem. Wykonana z trzech rodzajów przędz, tworzy delikatny, przerywany wzór o subtelnym połysku. Jej wyjątkowa powierzchnia ożywa w zależności od kąta patrzenia, oferując efekt lekkiej opalizacji. W palecie 27 kolorów dominują beże, zielenie i brązy, wzbogacone o zaskakujące dwutonowe zestawienia. LUMI łączy miękkość i szlachetny wygląd, a barwienie w masie (dope dyed) zapewnia wysoką trwałość koloru.",
+     "c4": "LUMI is a woven fabric that shimmers with colour and light. Made from three types of yarn, it creates a delicate broken pattern with a subtle sheen. Its unique surface changes depending on the viewing angle, revealing a soft opalescent effect. The 27-colour palette features beiges, greens, and browns, enhanced with surprising two-tone combinations. LUMI combines softness and refinement, while dope-dyed yarns ensure excellent colour durability.",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "41",
+     "c1": "MADRYT 0,9 mm",
+     "c2": "≤2015",
+     "c3": "",
+     "c4": "",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "42",
+     "c1": "MALMO NEW",
+     "c2": "≤2015",
+     "c3": "",
+     "c4": "",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "43",
+     "c1": "MATT VELVET",
+     "c2": "2020",
+     "c3": "Delikatność velvetu i matowy kolor czynią tę dzianinę niezwykle elegancką. Miękka, mięsista o bardzo szerokiej gamie kolorystycznej. Piękna w odbiorze z dodatkową funkcją Water Repellent, dzięki której MATT VELVET jest dzianiną o właściwościach utrudniających wchłanianie rozlanych płynów. Pokryta jest specjalną warstwą ochronną, tworzącą hydrofobową powłokę zabezpieczającą przed szybkim przesiąkaniem płynów.",
+     "c4": "The delicacy of velvet and a matte colour make this knit exceptionally elegant. Soft and plush, in a very wide colour range. Beautiful to look at, with an additional Water Repellent function: a special protective coating forms a hydrophobic layer that helps prevent spilled liquids from soaking in quickly.",
+     "c5": "WR",
+     "c6": ""
+    },
+    {
+     "c0": "44",
+     "c1": "MELVA",
+     "c2": "2018",
+     "c3": "Kolekcja inspirowana jest skandynawskim minimalizmem. Niezwykle miękka plecionka. Dzięki matowemu wykończeniu zyskuje efekt szlachetności, a charakteru nadaje jej subtelne prążkowanie. Wyważona linia kolorystyczna wzbogacona o akcenty oberżyny, zieleni, błękitów i pudrowego różu. Melva to tkanina o właściwościach utrudniających wchłanianie rozlanych płynów. Pokryta jest specjalną warstwą ochronną, tworzącą hydrofobową powłokę zabezpieczającą przed szybkim przesiąkaniem płynów.",
+     "c4": "A collection inspired by Scandinavian minimalism. An exceptionally soft woven fabric. Its matte finish gives it a refined look, while subtle ribbing adds character. A balanced colour line enriched with accents of aubergine, green, blue and powder pink. MELVA features a Water Repellent finish: a special protective coating forms a hydrophobic layer that helps prevent spilled liquids from soaking in quickly.",
+     "c5": "WR",
+     "c6": ""
+    },
+    {
+     "c0": "45",
+     "c1": "MIKA",
+     "c2": "2025",
+     "c3": "MIKA to tkanina, która wygląda jak puszyste, lekkie futro. Jej długie, swobodnie układające się włosie tworzy miękką, trójwymiarową strukturę. Idealna do akcesoriów – puf, legowisk, dekoracji – ale też do wnętrz, które mają być miękkie i pełne ciepła. W palecie: śmietanka, karmel, camel, pudrowy róż, głęboki granat i eukaliptusowa zieleń. MIKA nadaje przestrzeni naturalnej swobody i miękkiej objętości.",
+     "c4": "MIKA resembles soft, lightweight fur. Its long, freely flowing pile creates a plush, three-dimensional texture. Perfect for accessories such as poufs, pet beds, and décor items, as well as interiors that aim for warmth and comfort. The palette includes cream, caramel, camel, powder pink, deep navy, and eucalyptus green. MIKA adds natural softness and a sense of relaxed volume to any space.",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "46",
+     "c1": "MISTERIO",
+     "c2": "2025",
+     "c3": "Tkanina o interesującym, organicznym charakterze wynikającym z użycia miękkiej przędzy sznurkowej oraz nieregularnego splotu. Użyte są tu dwa rodzaje przędz – kationowa oraz zwykła, które podczas barwienia w różny sposób przyjmują kolor, co tworzy głębię oraz lekki efekt melanżu. Pasuje do stylów Mid Century i Eklektyzm.",
+     "c4": "MISTERIO features a distinctive, organic look achieved through the use of soft cord yarns and an irregular weave. Two yarn types — cationic and standard — absorb dye differently, creating a deep, subtle melange effect. The collection pairs beautifully with Mid-Century and Eclectic interiors, adding depth and texture to any furniture form.",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "47",
+     "c1": "MOLY",
+     "c2": "2022",
+     "c3": "Doskonale wpisująca się w obecne trendy plecionka szenilowa. Wykonana z włókien o dwóch różnych grubościach i kolorach, z regularnym wzorem. Miękka w dotyku, o bogatej gamie kolorystycznej idealnie podkreśli każdą bryłę. Dodatkowo Moly to tkanina o właściwościach utrudniających wchłanianie rozlanych płynów. Pokryta jest specjalną warstwą ochronną, tworzącą hydrofobową powłokę zabezpieczającą przed szybkim przesiąkaniem płynów.",
+     "c4": "An on-trend chenille woven fabric. Made from fibres of two different thicknesses and colours, with a regular pattern. Soft to the touch and available in a rich colour range, it beautifully enhances any furniture form. MOLY also features a Water Repellent finish: a special protective coating forms a hydrophobic layer that helps prevent spilled liquids from soaking in quickly.",
+     "c5": "WR",
+     "c6": ""
+    },
+    {
+     "c0": "48",
+     "c1": "MONOLITH",
+     "c2": "2018",
+     "c3": "Niezwykle ciekawa odsłona dzianin velvetowych podkreślona delikatnym printem. Jej ponadczasowa linia kolorystyczna, wzbogacona o akcenty szmaragdowej zieleni, intensywnego granatu i nietypowego oranżu, ubrana jest w niesamowitą mięsistość i miękkość. Dzianina pokryta jest specjalną warstwą ochronną, tworzącą hydrofobową powłokę zabezpieczającą przed szybkim przesiąkaniem płynów. Dodatkowo, subtelnie połyskująca powierzchnia nadaje tkaninie elegancji i wyjątkowego charakteru, podkreślając jej luksusowy wygląd.",
+     "c4": "A remarkable take on velvet knits, enhanced with a delicate print. Its timeless colour line, enriched with accents of emerald green, intense navy and an unusual orange, comes with outstanding plushness and softness. The knit is coated with a special protective layer that forms a hydrophobic finish, helping prevent liquids from soaking in quickly. Its subtly lustrous surface adds elegance and a distinctive character, emphasising its luxurious look.",
+     "c5": "WR",
+     "c6": ""
+    },
+    {
+     "c0": "49",
+     "c1": "MONTE",
+     "c2": "2025",
+     "c3": "MONTE to dzianina o krótkim, nieregularnym włosiu, przypominająca miękką bawełnę. Jej organiczny wzór i matowa powierzchnia sprawiają, że mebel zyskuje naturalny i szlachetny wygląd. Kolekcja zachwyca ciepłymi beżami, brązami, terakotą i zgaszoną zielenią – barwami, które budują atmosferę spokoju i przytulności. MONTE to prostota w najlepszym wydaniu.",
+     "c4": "MONTE is a knit fabric with a short, irregular pile reminiscent of soft cotton. Its organic texture and matte finish give furniture a natural, refined appearance. The palette includes warm tones — beiges, browns, terracotta, and muted green — creating a serene and inviting atmosphere. MONTE is simplicity at its finest.",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "50",
+     "c1": "MOSSA",
+     "c2": "2024",
+     "c3": "Mossa charakteryzuje się drobnym, minimalistycznym splotem, jednolitym i gładkim z daleka. Po bliższym przyjrzeniu się, pojawiają się subtelne detale i kontrasty kolorystyczne. Zainspirowana połączeniem tradycji i nowoczesnego wyglądu, charakteryzuje się unikalnym melanżem dwóch różnych przędz, z których każda ukazuje trzy odrębne odcienie. Starannie wyselekcjonowane spośród bogatej gamy kolorów, tonacje Mossy czerpią inspirację z wnętrz modernistycznych. Odcienie ziemi w połączeniu z neutralną paletą barw oferują wszechstronne zastosowanie w aranżacjach.",
+     "c4": "MOSSA features a fine, minimalist weave that looks smooth and uniform from a distance. On closer inspection, subtle details and colour contrasts appear. Inspired by the meeting of tradition and modern design, it is distinguished by a unique melange of two different yarns, each showing three distinct shades. Carefully selected from a rich colour range, MOSSA's tones draw inspiration from modernist interiors. Earthy shades combined with a neutral palette offer versatile use in interior design.",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "51",
+     "c1": "NEVE",
+     "c2": "2022",
+     "c3": "NEVE to klasyczna pleciona tkanina typu „wool like” o subtelnym wzorze, charakteryzująca się estetycznym efektem melanżu uzyskanym dzięki zastosowaniu nici o różnych odcieniach. Jej uniwersalny design sprawia, że doskonale komponuje się z różnorodnymi stylami wnętrz. Materiał wyróżnia się wysoką odpornością na ścieranie, osiągając ponad 100 000 cykli w teście Martindale'a. Dodatkowo, tkanina jest trudnozapalna, co zwiększa bezpieczeństwo jej użytkowania. Kolekcja NEVE oferuje szeroką paletę kolorystyczną, umożliwiając łatwe dopasowanie do indywidualnych preferencji i charakteru pomieszczenia. Jej delikatna faktura i klasyczny wygląd czynią ją idealnym wyborem zarówno do nowoczesnych, jak i tradycyjnych aranżacji.",
+     "c4": "NEVE is a classic woven “wool-like” fabric with a subtle pattern and an attractive melange effect created by threads in different shades. Its versatile design blends well with a variety of interior styles. The material offers high abrasion resistance, exceeding 100,000 cycles in the Martindale test. In addition, the fabric is flame retardant, which enhances safety in use. The NEVE collection offers a wide colour palette, making it easy to match individual preferences and the character of a room. Its delicate texture and classic look make it an ideal choice for both modern and traditional interiors.",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "52",
+     "c1": "NOW OR NEVER",
+     "c2": "2021",
+     "c3": "Kolekcja NOW OR NEVER to ten moment, w którym decyzja zapada w harmonii, tu i teraz. Odważna, niebanalna i unikatowa, a zarazem miękka i przytulna tkanina NOW OR NEVER to dopełnienie wyjątkowych mebli. Jej ogromnym atutem jest niezwykle trendowa faktura boucle oraz piękne, stonowane kolory. Tkanina jest przytulna i miękka w dotyku. Idealnie nadaje się na meble o prostej, obłej formie. Kolekcja NOW OR NEVER wykonana jest w 100% z rPES, co oznacza, że przy jej produkcji użyto przędzy wykonanej z tworzyw sztucznych pochodzących z recyklingu.",
+     "c4": "NOW OR NEVER is the moment when a decision is made in harmony, here and now. Bold, distinctive and unique, yet soft and cosy, NOW OR NEVER is the perfect complement to exceptional furniture. Its great strengths are its highly on-trend bouclé texture and beautiful, muted colours. The fabric is cosy and soft to the touch, ideal for furniture with simple, rounded forms. The NOW OR NEVER collection is made from 100% rPES, which means it is produced using yarn made from recycled plastics.",
+     "c5": "rPES",
+     "c6": ""
+    },
+    {
+     "c0": "53",
+     "c1": "NUBE",
+     "c2": "2024",
+     "c3": "Poznaj naszą kolekcję inspirowaną skórą – Nube. To odważne doświadczenie w każdym wnętrzu – czy to nowoczesnym, z epoki Mid Century czy klasycznym. Dzięki współczesnej palecie kolorów i matowemu wykończeniu z delikatnym połyskiem oddaje charakter naturalnej skóry. Piękna, wytrzymała i łatwa w utrzymaniu.",
+     "c4": "Discover NUBE – our leather-inspired collection. A bold statement in any interior, whether modern, Mid-Century or classic. With its contemporary colour palette and matte finish with a delicate sheen, it captures the character of natural leather. Beautiful, durable and easy to care for.",
+     "c5": "EC",
+     "c6": ""
+    },
+    {
+     "c0": "54",
+     "c1": "NUBUK W",
+     "c2": "≤2015",
+     "c3": "",
+     "c4": "",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "55",
+     "c1": "OPIUM",
+     "c2": "2024",
+     "c3": "Opium wyróżnia się regularnym splotem, który łączy elegancję z subtelnym zróżnicowaniem kolorystycznym. Paleta miękkich, stonowanych tonów doskonale komponuje się z różnorodnymi wnętrzami, wnosząc do przestrzeni ciepło i przytulność.",
+     "c4": "OPIUM stands out with its regular weave, which combines elegance with subtle colour variation. A palette of soft, muted tones blends beautifully with a variety of interiors, bringing warmth and cosiness to the space.",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "56",
+     "c1": "ORINOCO",
+     "c2": "≤2015",
+     "c3": "",
+     "c4": "",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "57",
+     "c1": "OVER THE HORIZON",
+     "c2": "2022",
+     "c3": "Patrz i mierz daleko, sięgaj aż po horyzont. Delikatna i miękka tkanina szenilowa o subtelnym geometrycznym wzorze 3D. Dzięki subtelnym, wypukłym liniom wzoru tkanina jest lekka i intrygująca. W ciekawej i bogatej gamie kolorystycznej, która pięknie podkreśli mebel.",
+     "c4": "Look far and aim high – reach all the way to the horizon. A delicate, soft chenille fabric with a subtle geometric 3D pattern. Gently raised lines make the fabric feel light and intriguing. Available in an interesting and rich colour range that beautifully enhances furniture.",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "58",
+     "c1": "PERFECT HARMONY",
+     "c2": "2022",
+     "c3": "Harmonia w nas roztacza się wokół i przynosi balans. Gruba, mięsista i miękka tkanina szenilowa. Wyrazisty, nieregularny strukturalnie, delikatny wzór nada charakteru każdej bryle mebla. Starannie wyselekcjonowane kolory kolekcji PERFECT HARMONY podkreślają atuty tej pięknej tkaniny.",
+     "c4": "The harmony within us radiates outward and brings balance. A thick, plush and soft chenille fabric. Its expressive, structurally irregular yet delicate pattern adds character to any furniture form. The carefully selected colours of PERFECT HARMONY highlight the strengths of this beautiful fabric.",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "59",
+     "c1": "PICO",
+     "c2": "2025",
+     "c3": "PICO to nowoczesna tkanina in/outdoor wykonana w 100% z włókna olefinowego – syntetycznego włókna cenionego za wyjątkową odporność na działanie promieni UV, wilgoć i intensywne użytkowanie. Dzięki zastosowaniu technologii Dope Dye (Solution Dyed) kolory są niezwykle trwałe i wysoce odporne na blaknięcie, nawet przy silnym nasłonecznieniu.\n\nBarwnik przenika przez całe włókno, co oznacza, że kolor nie ściera się i jest odporny na czynniki atmosferyczne, wodę morską czy chlorowaną. PICO zapewnia również najwyższy poziom ochrony przeciwsłonecznej (UPF >50), blokując aż 98% promieniowania UV.\n\nPICO jest również PFAS free – nie zawiera trwałych związków chemicznych z grupy per- i polifluoroalkilowych, które mogą gromadzić się w środowisku i stanowić zagrożenie dla zdrowia.",
+     "c4": "PICO is a modern indoor/outdoor fabric made from 100% olefin — a synthetic fibre valued for exceptional resistance to UV radiation, moisture, and heavy use. Using Dope Dye (Solution Dyed) technology, colours remain vibrant and fade-resistant even under intense sunlight.\nThe pigment penetrates the entire fibre, ensuring colour durability and resistance to saltwater and chlorinated water. PICO also offers maximum sun protection (UPF >50) — blocking 98% of UV rays — and is PFAS-free, free from persistent fluorinated compounds harmful to health and the environment.",
+     "c5": "OUTDOOR",
+     "c6": ""
+    },
+    {
+     "c0": "60",
+     "c1": "POINT",
+     "c2": "2022",
+     "c3": "Plecionka wykonana z dwóch kolorów włókien, jasnego i ciemnego, które tworzą bardzo ciekawy, delikatny wzór. Stonowana, ale szeroka gama kolorów pozwoli na niebanalne podkreślenie wnętrza. Miękka w dotyku o uniwersalnym wydźwięku wpisującym się w każdy styl wnętrzarski.\nDodatkowo POINT to tkanina o właściwościach utrudniających wchłanianie rozlanych płynów. Pokryta jest specjalną warstwą ochronną, tworzącą hydrofobową powłokę zabezpieczającą przed szybkim przesiąkaniem płynów.",
+     "c4": "A woven fabric made from fibres in two colours, light and dark, which create a very interesting, delicate pattern. A muted yet wide colour range allows for a distinctive accent in any interior. Soft to the touch, with a versatile character that suits any interior style.\nPOINT also features a Water Repellent finish: a special protective coating forms a hydrophobic layer that helps prevent spilled liquids from soaking in quickly.",
+     "c5": "WR",
+     "c6": ""
+    },
+    {
+     "c0": "61",
+     "c1": "PORTLAND",
+     "c2": "≤2015",
+     "c3": "",
+     "c4": "",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "62",
+     "c1": "POSITANO",
+     "c2": "2017",
+     "c3": "",
+     "c4": "",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "63",
+     "c1": "PRESTON",
+     "c2": "≤2015",
+     "c3": "",
+     "c4": "",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "64",
+     "c1": "PRIMO",
+     "c2": "2019",
+     "c3": "Bardzo ciekawa kolekcja o lekko melanżowej strukturze. Miła w dotyku, w interesującej gamie kolorystycznej i uniwersalnym, ponadczasowym wyglądzie. Doskonale dopełni każde wnętrze, a nienachalny wzór podkreśli każdą bryłę mebla.\nTkanina PRIMO pokryta jest specjalną warstwą ochronną, tworzącą hydrofobową powłokę zabezpieczającą przed szybkim przesiąkaniem płynów.",
+     "c4": "A very interesting collection with a slightly melange structure. Pleasant to the touch, in an interesting colour range with a versatile, timeless look. It complements any interior, while the understated pattern enhances any furniture form.\nPRIMO is coated with a special protective layer that forms a hydrophobic finish, helping prevent liquids from soaking in quickly.",
+     "c5": "WR",
+     "c6": ""
+    },
+    {
+     "c0": "65",
+     "c1": "PUENTE",
+     "c2": "2024",
+     "c3": "Puente to współczesna klasyka. Strukturalna plecionka, stworzona z czterech rodzajów przędz – różnych zarówno w charakterze, jak i barwie. Starannie dobrane kompozycje kolorystyczne tworzą wzór, który widziany z oddali uspokaja się, tworząc delikatny melanż. Puente inspirowana jest klasycznymi, mięsistymi plecionkami z lat 60. Zaprojektowana we współczesnych kolorach, idealnie pasuje do eklektycznych, klasycznych wnętrz, pełnych faktur, detali i struktur.",
+     "c4": "PUENTE is a contemporary classic. A structured woven fabric made from four types of yarn, differing in both character and colour. Carefully composed colour combinations create a pattern that softens when viewed from a distance, forming a delicate melange. PUENTE is inspired by the classic, chunky weaves of the 1960s. Designed in contemporary colours, it is a perfect fit for eclectic and classic interiors full of textures, details and structure.",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "66",
+     "c1": "QUELLE",
+     "c2": "2024",
+     "c3": "Odważna, niebanalna i unikatowa, a zarazem miękka i przytulna dzianina QUELLE to dopełnienie wyjątkowych mebli. Jej ogromnym atutem jest niezwykle trendowa faktura boucle oraz piękne, stonowane kolory. Dzianina jest przytulna i miękka w dotyku. Idealnie nadaje się na meble o prostej formie.",
+     "c4": "Bold, distinctive and unique, yet soft and cosy, the QUELLE knit is the perfect complement to exceptional furniture. Its great strengths are its highly on-trend bouclé texture and beautiful, muted colours. The knit is cosy and soft to the touch, ideal for furniture with simple forms.",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "67",
+     "c1": "RETRO BLISS",
+     "c2": "2023",
+     "c3": "Powrót klasyki w najlepszym stylu i wydaniu.\nSzenilowa kolekcja RETRO BLISS o subtelnym, delikatnym wzorze, dającym efekt 3D. Tkanina bardzo miękka i delikatna w dotyku, z ciekawym efektem melanżu, w bardzo trendowym stylu retro.",
+     "c4": "The return of a classic, in the best possible style.\nRETRO BLISS is a chenille collection with a subtle, delicate pattern that creates a 3D effect. Very soft and delicate to the touch, with an interesting melange effect, in a highly on-trend retro style.",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "68",
+     "c1": "RINO",
+     "c2": "2020",
+     "c3": "Piękna nowoczesna plecionka. Splot włókien o różnych odcieniach jednego koloru nadaje tkaninie niebanalnego charakteru. Bardzo szeroka gama kolorystyczna podkreśla walory kolekcji.\nDodatkowo RINO to tkanina o właściwościach utrudniających wchłanianie rozlanych płynów. Pokryta jest specjalną warstwą ochronną, tworzącą hydrofobową powłokę zabezpieczającą przed szybkim przesiąkaniem płynów.",
+     "c4": "A beautiful modern woven fabric. A weave of fibres in different shades of one colour gives the fabric a distinctive character. A very wide colour range highlights the strengths of the collection.\nRINO also features a Water Repellent finish: a special protective coating forms a hydrophobic layer that helps prevent spilled liquids from soaking in quickly.",
+     "c5": "WR",
+     "c6": ""
+    },
+    {
+     "c0": "69",
+     "c1": "RIVIERA",
+     "c2": "2016",
+     "c3": "Niezwykle delikatna i miła w dotyku dzianina velvetowa. Jej walory wizualne doskonale uwydatnia piękna, starannie dobrana i bardzo szeroka gama kolorystyczna. Nasycenie kolorów podkreśla elegancki wygląd tkaniny. Kolekcja RIVIERA idealnie ubiera meble, ale też dodatki do wnętrz, takie jak poduchy dekoracyjne, narzuty, czy nawet zasłony. Ma wiele zastosowań, dzięki czemu jest bardzo cenioną kolekcją.",
+     "c4": "An exceptionally delicate velvet knit, pleasant to the touch. Its visual appeal is enhanced by a beautiful, carefully selected and very wide colour range. Saturated colours emphasise the elegant look of the fabric. RIVIERA is perfect for furniture as well as interior accessories such as decorative cushions, throws and even curtains. Its many applications make it a highly valued collection.",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "70",
+     "c1": "RUN AGAIN",
+     "c2": "2021",
+     "c3": "Wróć wspomnieniami do tego, co było piękne. To nowoczesna i elegancka wersja sztruksu. Design tkaniny – wąskie pasy wzoru o wielowymiarowej strukturze – daje wyjątkowy efekt na meblu. RUN AGAIN jest niezwykle miła i delikatna w dotyku. Szalenie trendowa, dzięki bogatej gamie kolorystycznej idealnie wpasuje się w każde wnętrze. Kolekcja niebanalna, z charakterem.",
+     "c4": "Look back on everything that was beautiful. A modern, elegant take on corduroy. The fabric's design – narrow stripes with a multidimensional structure – creates a unique effect on furniture. RUN AGAIN is exceptionally pleasant and delicate to the touch. Highly on-trend, with a rich colour range that suits any interior. A distinctive collection with character.",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "71",
+     "c1": "RUNO",
+     "c2": "2025",
+     "c3": "RUNO to dzianina inspirowana leśnym runem i naturalnym welwetem. Miękka, matowa i delikatnie melanżowa, wnosi do wnętrz spokój i harmonię. Krótkie włosie oraz naturalna kolorystyka – od szałwii i mchu, przez terakotę, rdzę, po szeroką gamę beży i brązów – sprawiają, że RUNO znakomicie odnajduje się w przestrzeniach przytulnych i ponadczasowych. Idealna do mebli, które mają być tłem dla codzienności.",
+     "c4": "RUNO is a knit fabric inspired by forest moss and natural velvet. Soft, matte, and gently melange, it brings calm and harmony into interiors. Its short pile and earthy tones — sage, moss, terracotta, rust, and a wide range of beiges and browns — make it perfect for warm, timeless spaces. Ideal for furniture designed to complement everyday life.",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "72",
+     "c1": "SALVA",
+     "c2": "2020",
+     "c3": "",
+     "c4": "",
+     "c5": "",
+     "c6": ""
+    },
+    {
+     "c0": "73",
+     "c1": "SAND",
+     "c2": "2025",
+     "c3": "Tkanina o strukturze przypominającej zamsz z nadrukowanym wzorem przywodzącym na myśl popękaną ziemię oraz z dodatkowym wytłoczeniem. Pełna kolekcja to paleta 25 kolorów z szerokim wyborem neutralnych barw oraz modnych tonów takich jak terakota, burgund, szałwia, czy sky blue. Pasuje do stylów Soft Minimalizm, Soft Brutalizm oraz Eklektyzm.",
+     "c4": "SAND features a suede-like texture with a printed, cracked-earth pattern and an additional embossed finish. The 25-colour palette offers a broad range of neutrals along with fashionable tones such as terracotta, burgundy, sage, and sky blue. SAND pairs beautifully with Soft Minimalism, Soft Brutalism, and Eclecticism, bringing texture and warmth to any design.",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "74",
+     "c1": "SAWANA LN",
+     "c2": "≤2015",
+     "c3": "",
+     "c4": "",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "75",
+     "c1": "SCALA NW",
+     "c2": "2023",
+     "c3": "Ponadczasowa tkanina mikroszenilowa. Bardzo miękka i przyjemna w dotyku o szerokiej gamie kolorystycznej i wielobarwnej przędzy.\nSCALA to tkanina o właściwościach utrudniających wchłanianie rozlanych płynów. Pokryta jest specjalną warstwą ochronną, tworzącą hydrofobową powłokę. Połączenie designu z praktyczną stroną użytkowania.",
+     "c4": "A timeless micro-chenille fabric. Very soft and pleasant to the touch, in a wide colour range with multicoloured yarn.\nSCALA features a Water Repellent finish: a special protective coating forms a hydrophobic layer that helps prevent spilled liquids from soaking in quickly. Design combined with everyday practicality.",
+     "c5": "WR",
+     "c6": ""
+    },
+    {
+     "c0": "76",
+     "c1": "SEAL",
+     "c2": "2021",
+     "c3": "Miękka i delikatna w dotyku tkanina velvetowa. Bardzo ciekawy wzór, w nieregularną „jodełkę”, podkreśla matowe wykończenie kolekcji i bogatą gamę kolorystyczną.\nSEAL to tkanina o właściwościach utrudniających wchłanianie rozlanych płynów. Pokryta jest specjalną warstwą ochronną, tworzącą hydrofobową powłokę zabezpieczającą przed szybkim przesiąkaniem płynów.",
+     "c4": "A velvet fabric that is soft and delicate to the touch. A very interesting irregular herringbone pattern emphasises the matte finish of the collection and its rich colour range.\nSEAL features a Water Repellent finish: a special protective coating forms a hydrophobic layer that helps prevent spilled liquids from soaking in quickly.",
+     "c5": "WR",
+     "c6": ""
+    },
+    {
+     "c0": "77",
+     "c1": "SILENCIO",
+     "c2": "2025",
+     "c3": "SILENCIO to tkanina z bogatą, oryginalną i taktylną strukturą. Jest naszą odpowiedzią na obecne trendy w modzie i architekturze wnętrz na teksturalne, grube plecionki o rzemieślniczym charakterze. Tkanina składa się z trzech rodzajów przędz: miękkiej szenilowej, multikolorowej przędzy bouclé oraz filamentowej przędzy w osnowie. Posiada delikatny połysk, który nadaje jej szlachetnego, a zarazem przytulnego charakteru.",
+     "c4": "SILENCIO is a fabric with a rich, original, and highly tactile texture. It is our response to current trends in fashion and interior architecture – textural, chunky weaves with a craft-inspired character. The fabric combines three types of yarn: soft chenille, multicolored bouclé yarn, and filament yarn in the warp. A subtle sheen adds a refined yet cozy feel.",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "78",
+     "c1": "SOLAR",
+     "c2": "2019",
+     "c3": "Miękka, mięsista tkanina velvetowa o wyraźnym rysunku. Bardzo elegancka, ale jednocześnie uniwersalna faktura kolekcji czyni ją niezwykle oryginalną. Delikatne satynowe wykończenie w połączeniu z ciekawą gamą wybarwień to propozycja do wyjątkowych wnętrz.\nNiezwykłą zaletą tkaniny jest połączenie funkcjonalności Easy Clean i Pet Friendly. Tkanina wykończona jest specjalną apreturą ułatwiającą usuwanie zabrudzeń. Pozwala usunąć większość codziennych zabrudzeń samą wodą i szarym mydłem — bez detergentów i rozpuszczalników. Funkcja Pet Friendly ułatwia usuwanie sierści, ograniczając jej wbijanie się w strukturę tkaniny.",
+     "c4": "A soft, plush velvet fabric with a distinctive pattern. The elegant yet versatile texture of the collection makes it truly original. A delicate satin finish combined with an interesting range of shades makes it a choice for exceptional interiors.\nA remarkable advantage of the fabric is the combination of Easy Clean and Pet Friendly functions. The fabric is finished with a special treatment that makes dirt easier to remove. Most everyday stains can be removed with just water and grey soap — no detergents or solvents. The Pet Friendly function makes pet hair easier to remove, reducing the extent to which it becomes embedded in the fabric.",
+     "c5": "EC+PF",
+     "c6": ""
+    },
+    {
+     "c0": "79",
+     "c1": "SOLID",
+     "c2": "2020",
+     "c3": "Melanżowa struktura i ciekawe kolory tej poliestrowej tkaniny sprawiają, że wyróżni każdy mebel. Miękka i przyjemna w dotyku, z bardzo ciekawym, drobnym wzorem z przeplatanych, wielokolorowych nici. Idealnie współgra z obecnymi trendami. Nietuzinkowa plecionka w bardzo ciekawej linii kolorystycznej. Solid to tkanina o właściwościach utrudniających wchłanianie rozlanych płynów. Pokryta jest specjalną warstwą ochronną, tworzącą hydrofobową powłokę zabezpieczającą przed szybkim przesiąkaniem płynów.",
+     "c4": "The melange structure and interesting colours of this polyester fabric make any piece of furniture stand out. Soft and pleasant to the touch, with a very interesting, fine pattern of interwoven multicoloured threads. It works perfectly with current trends. A distinctive woven fabric in a very interesting colour line. SOLID features a Water Repellent finish: a special protective coating forms a hydrophobic layer that helps prevent spilled liquids from soaking in quickly.",
+     "c5": "WR",
+     "c6": ""
+    },
+    {
+     "c0": "80",
+     "c1": "SOMETIMES",
+     "c2": "2021",
+     "c3": "Pozwólmy sobie na emocje, niech czasem rolę przejmie serce. Ponadczasowa, doskonale sprawdzi się w każdym wnętrzu i na każdym meblu. SOMETIMES została podkreślona nowoczesną, trendową gamą kolorów. Dzięki drobnej przędzy szenilowej jest bardzo miękka. Delikatny efekt dwutonowy, lekko błyszczący, oraz dwie wysokości nici sprawiają, że tkanina jest bardzo subtelnie wymiarowa, co doskonale podkreśla walory kolekcji.",
+     "c4": "Let's allow ourselves to feel – sometimes the heart should take the lead. Timeless, it works perfectly in any interior and on any piece of furniture. SOMETIMES is enhanced by a modern, on-trend colour range. Fine chenille yarn makes it very soft. A delicate, slightly lustrous two-tone effect and two thread heights give the fabric a very subtle dimensionality that highlights the strengths of the collection.",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "81",
+     "c1": "SORELLA",
+     "c2": "2024",
+     "c3": "Sorella to elegancka, miękka tkanina, której charakterystyczny splot nadaje trójwymiarowy efekt oraz rytmiczny wzór. Cienka, srebrzysta nitka przeplata się w każdym z kolorów, lekko mieniąc się w tle. Kolorystyka kolekcji pełna jest ciemnych, bogatszych odcieni, doskonale wpisujących się w styl Eklektyzmu Klasycznego, kipiącego od detali i faktur.",
+     "c4": "SORELLA is an elegant, soft fabric whose distinctive weave creates a three-dimensional effect and a rhythmic pattern. A fine silvery thread runs through every colour, shimmering subtly in the background. The collection is full of dark, rich shades that fit perfectly with the Classic Eclectic style, abounding in details and textures.",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "82",
+     "c1": "SORO",
+     "c2": "≤2015",
+     "c3": "SORO to tkanina typu soft touch o drobnej, delikatnej strukturze, która urzeka swoją miękkością i przyjemnym, welurowym wykończeniem. Dzięki swojej elastyczności doskonale dopasowuje się do nawet najbardziej wymagających i skomplikowanych form mebli. Cechuje się wyjątkową trwałością i odpornością na codzienne użytkowanie. Kolekcja zachwyca paletą 22 wyrazistych i starannie dobranych kolorów, które pozwalają na pełną swobodę w aranżacji wnętrz.",
+     "c4": "SORO is a soft-touch fabric with a fine, delicate structure that charms with its softness and pleasant velvety finish. Thanks to its elasticity, it adapts perfectly even to the most demanding and complex furniture shapes. It is exceptionally durable and resistant to everyday use. The collection features a palette of 22 expressive, carefully selected colours that allow complete freedom in interior design.",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "83",
+     "c1": "STORM",
+     "c2": "2022",
+     "c3": "Piękna szenilowa tkanina. Wykonana z wielokolorowej przędzy, która sprawia, że mebel wygląda niebanalnie i bardzo trendowo. Piękne, stonowane kolory to duży atut tej niezwykłej kolekcji. STORM posiada funkcję Easy Clean. Tkanina wykończona jest specjalną apreturą ułatwiającą usuwanie zabrudzeń. Pozwala usunąć większość codziennych zabrudzeń samą wodą i szarym mydłem — bez detergentów i rozpuszczalników.",
+     "c4": "A beautiful chenille fabric. Made from multicoloured yarn that gives furniture a distinctive, highly on-trend look. Beautiful, muted colours are a major asset of this remarkable collection. STORM features an Easy Clean function. The fabric is finished with a special treatment that makes dirt easier to remove. Most everyday stains can be removed with just water and grey soap — no detergents or solvents.",
+     "c5": "EC",
+     "c6": ""
+    },
+    {
+     "c0": "84",
+     "c1": "SUNLIGHT",
+     "c2": "2025",
+     "c3": "SUNLIGHT to lekka, outdoorowa tkanina bazowa o prostym splocie i szerokim zakresie zastosowań – od mebli ogrodowych, przez pufy i poduchy, aż po akcesoria, takie jak wózki czy maty. Dostępna w 16 kolorach i szerokości aż 160 cm.\n\nWykonana w 100% z olefinu, SUNLIGHT charakteryzuje się doskonałą odpornością na warunki zewnętrzne, wilgoć i promieniowanie UV. Barwiona w technologii Dope Dye – gdzie pigment dodawany jest już na etapie tworzenia włókna – tkanina zapewnia wyjątkową trwałość koloru, nawet w intensywnym nasłonecznieniu.",
+     "c4": "SUNLIGHT is a lightweight outdoor base fabric with a simple weave, perfect for garden furniture, poufs, cushions, and accessories. Available in 16 colours and a generous width of 160 cm.\nMade from 100% olefin, SUNLIGHT offers excellent resistance to outdoor conditions, humidity, and UV rays. Dope Dyed for outstanding colour durability, it maintains its vibrancy even under intense sunlight.",
+     "c5": "OUTDOOR",
+     "c6": ""
+    },
+    {
+     "c0": "85",
+     "c1": "TENDER WAY",
+     "c2": "2022",
+     "c3": "Znajdź najczulsze sposoby na okazanie sobie i bliskim miłości. Piękna i mięsista tkanina szenilowa. Miękka i miła w dotyku, z delikatnym wzorem 3D, który nadaje tkaninie głębi i niebanalnego wyglądu. Wpisująca się w obecne trendy, w pięknych i stonowanych kolorach, w nienachalny sposób podkreśli mebel.",
+     "c4": "Find the tenderest ways to show love to yourself and those close to you. A beautiful, plush chenille fabric. Soft and pleasant to the touch, with a delicate 3D pattern that adds depth and a distinctive look. On-trend, in beautiful muted colours, it enhances furniture in an understated way.",
+     "c5": "SE",
+     "c6": ""
+    },
+    {
+     "c0": "86",
+     "c1": "TERRA NW",
+     "c2": "2020",
+     "c3": "Piękna i bardzo ciekawa kolekcja velvetowa. Wzór inspirowany naturą podbija walory dzianiny i dodaje charakteru, a dzięki efektowi „cloudy” bardzo dobrze wygląda na bryle mebla. Szeroka gama kolorystyczna w trendowych odcieniach idealnie wpasuje się do każdego wnętrza nadając mu niebanalnego stylu. TERRA to niezwykłe połączenie pięknej faktury i funkcjonalności. Zastosowana specjalna powłoka pozwala na bardzo łatwe usuwanie sierści, zapobiegając wbijaniu się jej we wnętrze dzianiny. Dodatkowo utrudnia wchłanianie rozlanej wody – płyn zbiera się w krople na powierzchni materiału.",
+     "c4": "A beautiful and very interesting velvet collection. The nature-inspired pattern enhances the knit's qualities and adds character, while the “cloudy” effect makes it look great on furniture. A wide colour range in on-trend shades will suit any interior and give it a distinctive style. TERRA is a remarkable combination of beautiful texture and functionality. A special finish makes pet hair very easy to remove, preventing it from becoming embedded in the knit. It also helps resist the absorption of spilled water – liquid forms droplets on the surface of the material.",
+     "c5": "WR+PF",
+     "c6": ""
+    },
+    {
+     "c0": "87",
+     "c1": "TEXAS",
+     "c2": "≤2015",
+     "c3": "",
+     "c4": "",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "88",
+     "c1": "TILIA",
+     "c2": "2023",
+     "c3": "Miękka, ciepła i niezwykle przyjemna w dotyku. TILIA to tkanina, która wnosi do wnętrz komfort i przytulność, a przy tym zachwyca subtelnym, eleganckim designem. Jej charakterystyczna struktura to wyraziste, szerokie prążki o miękkim, welurowym wykończeniu, które dodają meblom wyjątkowego charakteru i głębi.",
+     "c4": "Soft, warm and exceptionally pleasant to the touch. TILIA is a fabric that brings comfort and cosiness to interiors while impressing with its subtle, elegant design. Its distinctive structure consists of bold, wide ribs with a soft, velvety finish that give furniture exceptional character and depth.",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "89",
+     "c1": "TODAY",
+     "c2": "2021",
+     "c3": "Dziś jest kluczem do przyszłości. Daj się zaskoczyć. Świeża i nowoczesna wersja boucle. TODAY to kilkuwymiarowa tkanina w starannie dobranej gamie kolorów. W niebanalny i oryginalny sposób podkreśli każde wnętrze. Dzięki temu, że wzór nie jest płaski, meble ubrane w TODAY robią duże wrażenie.",
+     "c4": "Today is the key to the future. Let yourself be surprised. A fresh, modern take on bouclé. TODAY is a multidimensional fabric in a carefully selected colour range. It enhances any interior in a distinctive and original way. Because the pattern is not flat, furniture upholstered in TODAY makes a strong impression.",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "90",
+     "c1": "VEGA",
+     "c2": "2022",
+     "c3": "VEGA to kolekcja nowoczesnej tkaniny o wyglądzie skóry, wykonanej w całości z dzianiny – bez użycia PU i PVC. Zapewnia miękki, przyjemny w dotyku materiał o eleganckim, ponadczasowym charakterze, jednocześnie wpisując się w ideę Vegan Leather. To propozycja łącząca estetykę skóry z komfortem użytkowania.",
+     "c4": "VEGA is a collection of modern leather-look fabric made entirely from knitted material – without PU or PVC. It offers a soft, pleasant-to-the-touch material with an elegant, timeless character, in line with the Vegan Leather concept. A proposition that combines the aesthetics of leather with comfort in use.",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "91",
+     "c1": "VERITA",
+     "c2": "2024",
+     "c3": "Poznaj VERITA – kolekcję szczotkowanych tkanin, w której każdy kolor wyróżnia się unikalnym, dwutonowym efektem uzyskanym dzięki specjalnym przędzom. Rezultatem jest dynamiczna gra barw i faktur, która dodaje głębi oraz elegancji każdemu wnętrzu.",
+     "c4": "Discover VERITA – a collection of brushed fabrics in which each colour stands out with a unique two-tone effect created by special yarns. The result is a dynamic interplay of colour and texture that adds depth and elegance to any interior.",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "92",
+     "c1": "VIBE",
+     "c2": "2025",
+     "c3": "Miękka, elegancka i pełna światła – VIBE to tkanina szenilowa, która przyciąga wzrok subtelnym połyskiem i głębią koloru. Gęsta struktura oparta na grubej przędzy tworzy solidną, ale niezwykle przyjemną w dotyku powierzchnię. Paleta 28 barw inspirowanych naturą – od gliny, szałwii i mchu, przez burgund i gorzką czekoladę, aż po kość słoniową i mleczny beż – pozwala na tworzenie wnętrz spokojnych, ale wyrazistych. VIBE sprawdza się zarówno w prostych formach, jak i bardziej dekoracyjnych aranżacjach.",
+     "c4": "Soft, elegant, and full of light — VIBE is a chenille fabric that captivates with its subtle sheen and depth of colour. Its dense structure, made from thick yarn, creates a solid yet velvety surface. The palette of 28 nature-inspired shades — from clay, sage, and moss to burgundy, dark chocolate, ivory, and milky beige — allows for serene yet expressive interiors. VIBE works beautifully in both minimalist and decorative arrangements.",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "93",
+     "c1": "WIND",
+     "c2": "2024",
+     "c3": "Tkanina Wind zaprojektowana jest w kojących odcieniach ziemi, które dopełnią twoje przytulne wnętrze. Dzięki swojej miękkości i subtelnej teksturze doskonale prezentuje się na tradycyjnych sofach w nowoczesnej odsłonie, zapraszając cię do relaksu po długim dniu. Naturalny wygląd przywołuje widoki kojącego krajobrazu wiejskiego i wspomnienia z domów wakacyjnych. Wind doskonale wpisuje się w styl Boho.",
+     "c4": "WIND is designed in soothing earth tones that complete a cosy interior. Thanks to its softness and subtle texture, it looks wonderful on traditional sofas with a modern twist, inviting you to relax after a long day. Its natural look evokes peaceful countryside views and memories of holiday homes. WIND fits perfectly with the Boho style.",
+     "c5": "x",
+     "c6": ""
+    },
+    {
+     "c0": "94",
+     "c1": "QUELLE",
+     "c2": "2024",
+     "c3": "Odważna, niebanalna i unikatowa, a zarazem miękka i przytulna dzianina QUELLE to dopełnienie wyjątkowych mebli. Jej ogromnym atutem jest niezwykle trendowa faktura boucle oraz piękne, stonowane kolory. Dzianina jest przytulna i miękka w dotyku. Idealnie nadaje się na meble o prostej formie.",
+     "c4": "Bold, distinctive and unique, yet soft and cosy, the QUELLE knit is the perfect complement to exceptional furniture. Its great strengths are its highly on-trend bouclé texture and beautiful, muted colours. The knit is cosy and soft to the touch, ideal for furniture with simple forms.",
+     "c5": "x",
+     "c6": ""
+    }
+   ]
+  },
+  {
+   "name": "2024",
+   "columns": [
+    {
+     "key": "c0",
+     "label": "Lp."
+    },
+    {
+     "key": "c1",
+     "label": "nazwa kolekcji"
+    },
+    {
+     "key": "c2",
+     "label": "rok"
+    },
+    {
+     "key": "c3",
+     "label": "opis"
+    },
+    {
+     "key": "c4",
+     "label": "eng"
+    },
+    {
+     "key": "c5",
+     "label": "funkcja"
+    }
+   ],
+   "rows": [
+    {
+     "c0": "1",
+     "c1": "CREMONA",
+     "c2": "2024",
+     "c3": "Cremona to miękka w dotyku tkanina szenilowa o jedwabistym połysku. Jej wyraźny efekt trójwymiarowy i dojrzała paleta kolorystyczna sprawiają, że doskonale wpisuje się zarówno w tradycyjne, jak i współczesne, bogatsze odsłony stylu Mid Century. Pięknie harmonizuje z ciemnym, ciepłym drewnem, mosiądzem czy kamieniem o mocnym rysunku.",
+     "c4": "CREMONA is a soft chenille fabric with a silky sheen. Its pronounced three-dimensional effect and mature colour palette make it a perfect fit for both traditional and contemporary, richer interpretations of the Mid-Century style. It pairs beautifully with dark, warm wood, brass and boldly patterned stone.",
+     "c5": "x"
+    },
+    {
+     "c0": "2",
+     "c1": "LINCOLN D",
+     "c2": "2024",
+     "c3": "LINCOLN D to elegancka dzianina typu sztruks, charakteryzująca się szerokimi prążkami (około 10 mm). Jej miękka i mięsista struktura nadaje meblom wyjątkowego komfortu. Dostępna w szerokiej gamie kolorystycznej, doskonale sprawdzi się w różnorodnych aranżacjach wnętrz, dodając im ciepła i elegancji.",
+     "c4": "LINCOLN D is an elegant corduroy knit with wide ribs (approx. 10 mm). Its soft, plush structure makes furniture exceptionally comfortable. Available in a wide range of colours, it works well in a variety of interior arrangements, adding warmth and elegance.",
+     "c5": "x"
+    },
+    {
+     "c0": "3",
+     "c1": "MOSSA",
+     "c2": "2024",
+     "c3": "Mossa charakteryzuje się drobnym, minimalistycznym splotem, jednolitym i gładkim z daleka. Po bliższym przyjrzeniu się, pojawiają się subtelne detale i kontrasty kolorystyczne. Zainspirowana połączeniem tradycji i nowoczesnego wyglądu, charakteryzuje się unikalnym melanżem dwóch różnych przędz, z których każda ukazuje trzy odrębne odcienie. Starannie wyselekcjonowane spośród bogatej gamy kolorów, tonacje Mossy czerpią inspirację z wnętrz modernistycznych. Odcienie ziemi w połączeniu z neutralną paletą barw oferują wszechstronne zastosowanie w aranżacjach.",
+     "c4": "MOSSA features a fine, minimalist weave that looks smooth and uniform from a distance. On closer inspection, subtle details and colour contrasts appear. Inspired by the meeting of tradition and modern design, it is distinguished by a unique melange of two different yarns, each showing three distinct shades. Carefully selected from a rich colour range, MOSSA's tones draw inspiration from modernist interiors. Earthy shades combined with a neutral palette offer versatile use in interior design.",
+     "c5": "x"
+    },
+    {
+     "c0": "4",
+     "c1": "NUBE",
+     "c2": "2024",
+     "c3": "Poznaj naszą kolekcję inspirowaną skórą – Nube. To odważne doświadczenie w każdym wnętrzu – czy to nowoczesnym, z epoki Mid Century czy klasycznym. Dzięki współczesnej palecie kolorów i matowemu wykończeniu z delikatnym połyskiem oddaje charakter naturalnej skóry. Piękna, wytrzymała i łatwa w utrzymaniu.",
+     "c4": "Discover NUBE – our leather-inspired collection. A bold statement in any interior, whether modern, Mid-Century or classic. With its contemporary colour palette and matte finish with a delicate sheen, it captures the character of natural leather. Beautiful, durable and easy to care for.",
+     "c5": "EC"
+    },
+    {
+     "c0": "5",
+     "c1": "OPIUM",
+     "c2": "2024",
+     "c3": "Opium wyróżnia się regularnym splotem, który łączy elegancję z subtelnym zróżnicowaniem kolorystycznym. Paleta miękkich, stonowanych tonów doskonale komponuje się z różnorodnymi wnętrzami, wnosząc do przestrzeni ciepło i przytulność.",
+     "c4": "OPIUM stands out with its regular weave, which combines elegance with subtle colour variation. A palette of soft, muted tones blends beautifully with a variety of interiors, bringing warmth and cosiness to the space.",
+     "c5": "x"
+    },
+    {
+     "c0": "6",
+     "c1": "PUENTE",
+     "c2": "2024",
+     "c3": "Puente to współczesna klasyka. Strukturalna plecionka, stworzona z czterech rodzajów przędz – różnych zarówno w charakterze, jak i barwie. Starannie dobrane kompozycje kolorystyczne tworzą wzór, który widziany z oddali uspokaja się, tworząc delikatny melanż. Puente inspirowana jest klasycznymi, mięsistymi plecionkami z lat 60. Zaprojektowana we współczesnych kolorach, idealnie pasuje do eklektycznych, klasycznych wnętrz, pełnych faktur, detali i struktur.",
+     "c4": "PUENTE is a contemporary classic. A structured woven fabric made from four types of yarn, differing in both character and colour. Carefully composed colour combinations create a pattern that softens when viewed from a distance, forming a delicate melange. PUENTE is inspired by the classic, chunky weaves of the 1960s. Designed in contemporary colours, it is a perfect fit for eclectic and classic interiors full of textures, details and structure.",
+     "c5": "x"
+    },
+    {
+     "c0": "7",
+     "c1": "QUELLE",
+     "c2": "2024",
+     "c3": "Odważna, niebanalna i unikatowa, a zarazem miękka i przytulna dzianina QUELLE to dopełnienie wyjątkowych mebli. Jej ogromnym atutem jest niezwykle trendowa faktura boucle oraz piękne, stonowane kolory. Dzianina jest przytulna i miękka w dotyku. Idealnie nadaje się na meble o prostej formie.",
+     "c4": "",
+     "c5": "x"
+    },
+    {
+     "c0": "8",
+     "c1": "SORELLA",
+     "c2": "2024",
+     "c3": "Sorella to elegancka, miękka tkanina, której charakterystyczny splot nadaje trójwymiarowy efekt oraz rytmiczny wzór. Cienka, srebrzysta nitka przeplata się w każdym z kolorów, lekko mieniąc się w tle. Kolorystyka kolekcji pełna jest ciemnych, bogatszych odcieni, doskonale wpisujących się w styl Eklektyzmu Klasycznego, kipiącego od detali i faktur.",
+     "c4": "SORELLA is an elegant, soft fabric whose distinctive weave creates a three-dimensional effect and a rhythmic pattern. A fine silvery thread runs through every colour, shimmering subtly in the background. The collection is full of dark, rich shades that fit perfectly with the Classic Eclectic style, abounding in details and textures.",
+     "c5": "x"
+    },
+    {
+     "c0": "9",
+     "c1": "VERITA",
+     "c2": "2024",
+     "c3": "Poznaj VERITA – kolekcję szczotkowanych tkanin, w której każdy kolor wyróżnia się unikalnym, dwutonowym efektem uzyskanym dzięki specjalnym przędzom. Rezultatem jest dynamiczna gra barw i faktur, która dodaje głębi oraz elegancji każdemu wnętrzu.",
+     "c4": "Discover VERITA – a collection of brushed fabrics in which each colour stands out with a unique two-tone effect created by special yarns. The result is a dynamic interplay of colour and texture that adds depth and elegance to any interior.",
+     "c5": "x"
+    },
+    {
+     "c0": "10",
+     "c1": "WIND",
+     "c2": "2024",
+     "c3": "Tkanina Wind zaprojektowana jest w kojących odcieniach ziemi, które dopełnią twoje przytulne wnętrze. Dzięki swojej miękkości i subtelnej teksturze doskonale prezentuje się na tradycyjnych sofach w nowoczesnej odsłonie, zapraszając cię do relaksu po długim dniu. Naturalny wygląd przywołuje widoki kojącego krajobrazu wiejskiego i wspomnienia z domów wakacyjnych. Wind doskonale wpisuje się w styl Boho.",
+     "c4": "WIND is designed in soothing earth tones that complete a cosy interior. Thanks to its softness and subtle texture, it looks wonderful on traditional sofas with a modern twist, inviting you to relax after a long day. Its natural look evokes peaceful countryside views and memories of holiday homes. WIND fits perfectly with the Boho style.",
+     "c5": "x"
+    }
+   ]
+  },
+  {
+   "name": "2025",
+   "columns": [
+    {
+     "key": "c0",
+     "label": "Lp."
+    },
+    {
+     "key": "c1",
+     "label": "nazwa kolekcji"
+    },
+    {
+     "key": "c2",
+     "label": "rok"
+    },
+    {
+     "key": "c3",
+     "label": "opis"
+    },
+    {
+     "key": "c4",
+     "label": "eng"
+    },
+    {
+     "key": "c5",
+     "label": "funkcja"
+    }
+   ],
+   "rows": [
+    {
+     "c0": "1",
+     "c1": "ADVENTURE",
+     "c2": "2025",
+     "c3": "Kolekcja utkana z miękkiej przędzy boucle. Charakter nadaje jej wielokolorowa nitka, składająca się z 3–4 osobno barwionych przędz, które tworzą nieregularny i organiczny wzór na powierzchni. Paleta kolorystyczna obejmuje zarówno szlachetne, stonowane połączenia, jak i barwy nasycone oraz zaskakujące. Dobrze komponuje się ze stylami Soft Minimalizm, Soft Brutalizm i Eklektyzm.",
+     "c4": "A collection woven from soft boucle yarn. Its character is defined by multicoloured threads made of 3–4 individually dyed fibres that create an irregular, organic surface pattern. The colour palette ranges from refined combinations to rich, saturated and surprising contrasts. Perfectly complements styles such as Soft Minimalism, Soft Brutalism, and Eclecticism.",
+     "c5": "x"
+    },
+    {
+     "c0": "2",
+     "c1": "CORTO",
+     "c2": "2025",
+     "c3": "Krótkie, eleganckie futerko – tak można opisać CORTO. Gęste, aksamitne włosie bez podkładu i matowe wykończenie nadają tkaninie wyjątkowy komfort. Barwy kolekcji to ciepłe klasyki: krem, czekoladowy brąz, camel, szałwia, pudrowy róż. CORTO sprawdza się zarówno jako tkanina użytkowa, jak i dekoracyjna – zawsze tworzy klimat przytulności i łagodności.",
+     "c4": "CORTO can be described as short, elegant faux fur. Its dense, velvety pile without backing and matte finish create an exceptionally soft and comfortable texture. The colour palette includes warm classics — cream, chocolate brown, camel, sage, and powder pink. CORTO works beautifully as both an upholstery and decorative fabric, always bringing warmth and softness to any interior.",
+     "c5": "x"
+    },
+    {
+     "c0": "3",
+     "c1": "LANDSCAPE",
+     "c2": "2025",
+     "c3": "Tkanina typu alcantara, znana ze swojej wytrzymałości. Cechą charakterystyczną jest niskie runo, które nadaje jej jedwabisty charakter i lekki elegancki połysk. Landscape jest barwiona w masie, a jej struktura oraz użycie przędzy mikrofibrowej pozwala na piękne nasycone kolory. Idealnie pasuje do stylów Mid Century, Soft Minimalizm, Soft Brutalizm oraz Eklektyzm.",
+     "c4": "LANDSCAPE is an alcantara-type fabric known for its durability and luxurious feel. Its short, smooth pile gives it a silky look and a subtle elegant sheen. Solution-dyed and made with microfibre yarn, it achieves rich, saturated colours with remarkable depth. Perfect for interiors in Mid-Century, Soft Minimalist, Soft Brutalist, and Eclectic styles.",
+     "c5": "WR"
+    },
+    {
+     "c0": "4",
+     "c1": "LUMI",
+     "c2": "2025",
+     "c3": "LUMI to plecionka, która mieni się kolorem i światłem. Wykonana z trzech rodzajów przędz, tworzy delikatny, przerywany wzór o subtelnym połysku. Jej wyjątkowa powierzchnia ożywa w zależności od kąta patrzenia, oferując efekt lekkiej opalizacji. W palecie 27 kolorów dominują beże, zielenie i brązy, wzbogacone o zaskakujące dwutonowe zestawienia. LUMI łączy miękkość i szlachetny wygląd, a barwienie w masie (dope dyed) zapewnia wysoką trwałość koloru.",
+     "c4": "LUMI is a woven fabric that shimmers with colour and light. Made from three types of yarn, it creates a delicate broken pattern with a subtle sheen. Its unique surface changes depending on the viewing angle, revealing a soft opalescent effect. The 27-colour palette features beiges, greens, and browns, enhanced with surprising two-tone combinations. LUMI combines softness and refinement, while dope-dyed yarns ensure excellent colour durability.",
+     "c5": "x"
+    },
+    {
+     "c0": "5",
+     "c1": "MIKA",
+     "c2": "2025",
+     "c3": "MIKA to tkanina, która wygląda jak puszyste, lekkie futro. Jej długie, swobodnie układające się włosie tworzy miękką, trójwymiarową strukturę. Idealna do akcesoriów – puf, legowisk, dekoracji – ale też do wnętrz, które mają być miękkie i pełne ciepła. W palecie: śmietanka, karmel, camel, pudrowy róż, głęboki granat i eukaliptusowa zieleń. MIKA nadaje przestrzeni naturalnej swobody i miękkiej objętości.",
+     "c4": "MIKA resembles soft, lightweight fur. Its long, freely flowing pile creates a plush, three-dimensional texture. Perfect for accessories such as poufs, pet beds, and décor items, as well as interiors that aim for warmth and comfort. The palette includes cream, caramel, camel, powder pink, deep navy, and eucalyptus green. MIKA adds natural softness and a sense of relaxed volume to any space.",
+     "c5": "x"
+    },
+    {
+     "c0": "6",
+     "c1": "MISTERIO",
+     "c2": "2025",
+     "c3": "Tkanina o interesującym, organicznym charakterze wynikającym z użycia miękkiej przędzy sznurkowej oraz nieregularnego splotu. Użyte są tu dwa rodzaje przędz – kationowa oraz zwykła, które podczas barwienia w różny sposób przyjmują kolor, co tworzy głębię oraz lekki efekt melanżu. Pasuje do stylów Mid Century i Eklektyzm.",
+     "c4": "MISTERIO features a distinctive, organic look achieved through the use of soft cord yarns and an irregular weave. Two yarn types — cationic and standard — absorb dye differently, creating a deep, subtle melange effect. The collection pairs beautifully with Mid-Century and Eclectic interiors, adding depth and texture to any furniture form.",
+     "c5": "x"
+    },
+    {
+     "c0": "7",
+     "c1": "MONTE",
+     "c2": "2025",
+     "c3": "MONTE to dzianina o krótkim, nieregularnym włosiu, przypominająca miękką bawełnę. Jej organiczny wzór i matowa powierzchnia sprawiają, że mebel zyskuje naturalny i szlachetny wygląd. Kolekcja zachwyca ciepłymi beżami, brązami, terakotą i zgaszoną zielenią – barwami, które budują atmosferę spokoju i przytulności. MONTE to prostota w najlepszym wydaniu.",
+     "c4": "MONTE is a knit fabric with a short, irregular pile reminiscent of soft cotton. Its organic texture and matte finish give furniture a natural, refined appearance. The palette includes warm tones — beiges, browns, terracotta, and muted green — creating a serene and inviting atmosphere. MONTE is simplicity at its finest.",
+     "c5": "x"
+    },
+    {
+     "c0": "8",
+     "c1": "PICO",
+     "c2": "2025",
+     "c3": "PICO to nowoczesna tkanina in/outdoor wykonana w 100% z włókna olefinowego – syntetycznego włókna cenionego za wyjątkową odporność na działanie promieni UV, wilgoć i intensywne użytkowanie. Dzięki zastosowaniu technologii Dope Dye (Solution Dyed) kolory są niezwykle trwałe i wysoce odporne na blaknięcie, nawet przy silnym nasłonecznieniu.\n\nBarwnik przenika przez całe włókno, co oznacza, że kolor nie ściera się i jest odporny na czynniki atmosferyczne, wodę morską czy chlorowaną. PICO zapewnia również najwyższy poziom ochrony przeciwsłonecznej (UPF >50), blokując aż 98% promieniowania UV.\n\nPICO jest również PFAS free – nie zawiera trwałych związków chemicznych z grupy per- i polifluoroalkilowych, które mogą gromadzić się w środowisku i stanowić zagrożenie dla zdrowia.",
+     "c4": "PICO is a modern indoor/outdoor fabric made from 100% olefin — a synthetic fibre valued for exceptional resistance to UV radiation, moisture, and heavy use. Using Dope Dye (Solution Dyed) technology, colours remain vibrant and fade-resistant even under intense sunlight.\nThe pigment penetrates the entire fibre, ensuring colour durability and resistance to saltwater and chlorinated water. PICO also offers maximum sun protection (UPF >50) — blocking 98% of UV rays — and is PFAS-free, free from persistent fluorinated compounds harmful to health and the environment.",
+     "c5": "OUTDOOR \nWR"
+    },
+    {
+     "c0": "9",
+     "c1": "RUNO",
+     "c2": "2025",
+     "c3": "RUNO to dzianina inspirowana leśnym runem i naturalnym welwetem. Miękka, matowa i delikatnie melanżowa, wnosi do wnętrz spokój i harmonię. Krótkie włosie oraz naturalna kolorystyka – od szałwii i mchu, przez terakotę, rdzę, po szeroką gamę beży i brązów – sprawiają, że RUNO znakomicie odnajduje się w przestrzeniach przytulnych i ponadczasowych. Idealna do mebli, które mają być tłem dla codzienności. RUNO posiada również wykończenie water repellent C0 — bez fluorokarbonów.",
+     "c4": "RUNO is a knit fabric inspired by forest moss and natural velvet. Soft, matte, and gently melange, it brings calm and harmony into interiors. Its short pile and earthy tones — sage, moss, terracotta, rust, and a wide range of beiges and browns — make it perfect for warm, timeless spaces. Ideal for furniture designed to complement everyday life. It also features a fluorocarbon-free C0 water-repellent finish.",
+     "c5": "WR C0"
+    },
+    {
+     "c0": "10",
+     "c1": "SAND",
+     "c2": "2025",
+     "c3": "Tkanina o strukturze przypominającej zamsz z nadrukowanym wzorem przywodzącym na myśl popękaną ziemię oraz z dodatkowym wytłoczeniem. Pełna kolekcja to paleta 25 kolorów z szerokim wyborem neutralnych barw oraz modnych tonów takich jak terakota, burgund, szałwia, czy sky blue. Pasuje do stylów Soft Minimalizm, Soft Brutalizm oraz Eklektyzm.",
+     "c4": "SAND features a suede-like texture with a printed, cracked-earth pattern and an additional embossed finish. The 25-colour palette offers a broad range of neutrals along with fashionable tones such as terracotta, burgundy, sage, and sky blue. SAND pairs beautifully with Soft Minimalism, Soft Brutalism, and Eclecticism, bringing texture and warmth to any design.",
+     "c5": "x"
+    },
+    {
+     "c0": "11",
+     "c1": "SILENCIO",
+     "c2": "2025",
+     "c3": "SILENCIO to tkanina z bogatą, oryginalną i taktylną strukturą. Jest naszą odpowiedzią na obecne trendy w modzie i architekturze wnętrz na teksturalne, grube plecionki o rzemieślniczym charakterze. Tkanina składa się z trzech rodzajów przędz: miękkiej szenilowej, multikolorowej przędzy bouclé oraz filamentowej przędzy w osnowie. Posiada delikatny połysk, który nadaje jej szlachetnego, a zarazem przytulnego charakteru.",
+     "c4": "SILENCIO is a fabric with a rich, original, and highly tactile texture. It is our response to current trends in fashion and interior architecture – textural, chunky weaves with a craft-inspired character. The fabric combines three types of yarn: soft chenille, multicolored bouclé yarn, and filament yarn in the warp. A subtle sheen adds a refined yet cozy feel.",
+     "c5": "x"
+    },
+    {
+     "c0": "12",
+     "c1": "SUNLIGHT",
+     "c2": "2025",
+     "c3": "Nasze kolekcje outdoorowe posiadają funkcję Water Repellent – skutecznie odpychają wodę, chronią przed wilgocią i codziennymi zabrudzeniami.\n\nSUNLIGHT to lekka, outdoorowa tkanina bazowa o prostym splocie i szerokim zakresie zastosowań – od mebli ogrodowych, przez pufy i poduchy, aż po akcesoria, takie jak wózki czy maty. Dostępna w 16 kolorach i szerokości aż 160 cm.\n\nWykonana w 100% z olefinu, SUNLIGHT charakteryzuje się doskonałą odpornością na warunki zewnętrzne, wilgoć i promieniowanie UV. Barwiona w technologii Dope Dye – gdzie pigment dodawany jest już na etapie tworzenia włókna – tkanina zapewnia wyjątkową trwałość koloru, nawet w intensywnym nasłonecznieniu.",
+     "c4": "Our outdoor collections feature Water Repellent protection that effectively repels water, moisture, and dirt. SUNLIGHT is a lightweight outdoor base fabric with a simple weave, perfect for garden furniture, poufs, cushions, and accessories. Available in 16 colours and a generous width of 160 cm.\nMade from 100% olefin, SUNLIGHT offers excellent resistance to outdoor conditions, humidity, and UV rays. Dope Dyed for outstanding colour durability, it maintains its vibrancy even under intense sunlight.",
+     "c5": "OUTDOOR \nWR"
+    },
+    {
+     "c0": "13",
+     "c1": "VIBE",
+     "c2": "2025",
+     "c3": "Miękka, elegancka i pełna światła – VIBE to tkanina szenilowa, która przyciąga wzrok subtelnym połyskiem i głębią koloru. Gęsta struktura oparta na grubej przędzy tworzy solidną, ale niezwykle przyjemną w dotyku powierzchnię. Paleta 28 barw inspirowanych naturą – od gliny, szałwii i mchu, przez burgund i gorzką czekoladę, aż po kość słoniową i mleczny beż – pozwala na tworzenie wnętrz spokojnych, ale wyrazistych. VIBE sprawdza się zarówno w prostych formach, jak i bardziej dekoracyjnych aranżacjach.",
+     "c4": "Soft, elegant, and full of light — VIBE is a chenille fabric that captivates with its subtle sheen and depth of colour. Its dense structure, made from thick yarn, creates a solid yet velvety surface. The palette of 28 nature-inspired shades — from clay, sage, and moss to burgundy, dark chocolate, ivory, and milky beige — allows for serene yet expressive interiors. VIBE works beautifully in both minimalist and decorative arrangements.",
+     "c5": "x"
+    }
+   ]
+  },
+  {
+   "name": "2026",
+   "columns": [
+    {
+     "key": "c0",
+     "label": "Lp."
+    },
+    {
+     "key": "c1",
+     "label": "nazwa kolekcji"
+    },
+    {
+     "key": "c2",
+     "label": "rok"
+    },
+    {
+     "key": "c3",
+     "label": "opis"
+    },
+    {
+     "key": "c4",
+     "label": "eng"
+    },
+    {
+     "key": "c5",
+     "label": "funkcja"
+    },
+    {
+     "key": "c6",
+     "label": "ARGUMENTY SPRZEDAŻOWE"
+    },
+    {
+     "key": "c7",
+     "label": "KEY SELLING POINTS"
+    }
+   ],
+   "rows": [
+    {
+     "c0": "1",
+     "c1": "BOSCO",
+     "c2": "2026",
+     "c3": "Bosco to miękka, elegancka tkanina o wyrafinowanej, wielowarstwowej strukturze, w której subtelny, organiczny rysunek ujawnia się wraz z każdym detalem. Melanżowa przędza splata się z puszystym szenilem, tworząc trójwymiarową głębię i wyjątkowy efekt dotykowy. Nieregularny układ nitek podkreśla naturalny charakter, a delikatny połysk włókien dodaje szlachetności.\nPaleta kolorów inspirowanych naturą — od kości słoniowej i złotobrązu, po kasztan i szałwię — nadaje kolekcji ponadczasowy, wyważony ton. Barwienie w przędzy wzmacnia intensywność oraz trwałość barw, podkreślając wysoką jakość wykonania Bosco.",
+     "c4": "Bosco is a soft, refined fabric with a multi-layered structure and an understated organic pattern that reveals itself up close. Mélange yarn interwoven with plush chenille creates a rich three-dimensional depth and a beautifully tactile effect. Its flowing, irregular thread layout highlights the fabric’s natural character, while a gentle sheen adds an elegant finish.\nNature-inspired hues — ivory, golden brown, chestnut and sage — give the collection a timeless, sophisticated identity. Yarn dyeing enhances color richness and durability, emphasizing Bosco’s premium craftsmanship.",
+     "c5": "x",
+     "c6": "/ yarn dyed czyli barwienie w przędzy nadaje barwom dodatkowej głębi i wytrzymałości\n/ miękka i przyjemna w dotyku\n/ PFAS FREE\n/ wysoka odporność na działanie światła",
+     "c7": "/ yarn dyed enhances the colors’ depth and durability\n/ premium look\n/ PFAS FREE"
+    },
+    {
+     "c0": "2",
+     "c1": "CAPRIO",
+     "c2": "2026",
+     "c3": "CAPRIO to tkanina o miękkim charakterze i eleganckim wykończeniu. Jej tkana struktura nawiązuje do efektu chenille-look, dzięki czemu powierzchnia zyskuje przyjemną głębię oraz subtelnie przytulny wygląd, bez klasycznej szenilowej formy.\n\nDelikatny połysk dodaje jej lekkości i bardziej szlachetnego wyrazu, a zastosowanie przędzy kationowej tworzy dyskretny melanż, który pięknie ożywia kolor i sprawia, że tkanina nie jest płaska wizualnie. CAPRIO dobrze odnajdzie się w codziennym, domowym użytkowaniu. Dodatkowym atutem jest to, że tkanina nie zawiera PFAS, co wpisuje się w coraz ważniejszy trend świadomego wyboru materiałów.",
+     "c4": "CAPRIO is a fabric with a soft character and an elegant finish. Its woven structure evokes a chenille-look effect, giving the surface a pleasant sense of depth and a subtly cosy appearance, without the classic chenille construction.\n\nA delicate sheen adds lightness and a more refined expression, while the use of cationic yarn creates a discreet melange effect that beautifully enhances the colour and prevents the fabric from looking visually flat. CAPRIO is well suited to everyday use in the home. An additional advantage is that the fabric is PFAS-free, in line with the increasingly important trend towards more conscious material choices.",
+     "c5": "x",
+     "c6": "/ szenilowy look\n/ PFAS FREE",
+     "c7": "/ chenille-look effect\n/ PFAS free"
+    },
+    {
+     "c0": "3",
+     "c1": "GELATO",
+     "c2": "2026",
+     "c3": "Gelato to miękka, elegancka tkanina welurowa o krótkim włosiu i subtelnym połysku, która łączy wyrafinowany wygląd z wyjątkowym komfortem użytkowania. Powierzchnia tkaniny posiada subtelny, chmurkowy efekt, który dodaje jej wizualnej głębi.\n\nBogata paleta 20 odcieni — od jasnych, neutralnych beży i szarości po głębokie, nasycone barwy — umożliwia wszechstronne zastosowanie w aranżacjach nowoczesnych i klasycznych.",
+     "c4": "Gelato is a soft, elegant velvet fabric with a short pile and a subtle sheen, combining refined aesthetics with exceptional comfort. Its surface features a delicate cloudy effect that adds visual depth and a sophisticated character.\n\nA rich palette of 20 shades — from light, neutral beiges and greys to deep, saturated tones — allows for versatile use in both modern and classic interior arrangements.",
+     "c5": "x",
+     "c6": "/ 20 kolorów\n/ PFAS free",
+     "c7": "/ 20 colors\n/ PFAS free"
+    },
+    {
+     "c0": "4",
+     "c1": "RAMBO",
+     "c2": "2026",
+     "c3": "Rambo to lekka, współczesna dzianina o miękkiej, przyjemnej powierzchni i subtelnej strukturze inspirowanej korą bambusa. Jej minimalistyczny rysunek i organiczny charakter sprawiają, że doskonale odnajduje się w nowoczesnych projektach stawiających na czystość formy i komfort użytkowania.\nKolekcja obejmuje 19 odcieni — od klasycznych neutralnych tonów, przez modne brązy i ceglaną czerwień, po szałwię i głęboki granat. Rambo jest barwiona metodą piece dyed, co zapewnia równomierną, spójną kolorystykę całej powierzchni.",
+     "c4": "Rambo is a lightweight, contemporary knitted fabric with a soft hand and a subtle texture inspired by bamboo bark. Its minimalist, organic appearance makes it an ideal choice for modern interiors where clarity, comfort, and visual balance are key.\nThe collection includes 19 shades — from timeless neutrals and on-trend browns to brick red, sage, and deep navy. Rambo is piece dyed, ensuring a consistent, even coloration across the entire fabric.",
+     "c5": "x",
+     "c6": "/ 19 kolorów\n/ PFAS FREE",
+     "c7": "/ 19 colors\n/ PFAS FREE"
+    },
+    {
+     "c0": "5",
+     "c1": "VELA",
+     "c2": "2026",
+     "c3": "Vela to elegancka dzianina o miękkiej, szenilowej powierzchni, w której mat i subtelny połysk przeplatają się niczym falująca tafla wody. Jej głębię i delikatny melanż tworzy połączenie przędzy kationowej i klasycznej, które podczas barwienia przyjmują kolor w różny sposób, dając efekt gry światła i cienia.\nObszerna paleta 23 nasyconych barw obejmuje zarówno uniwersalne beże i szarości, jak i klasyczną ciemną czekoladę, elegancki karmel, piaskowy odcień oraz odcienie inspirowane naturą — mech, szałwię i błękit nieba. Vela dzięki swojej harmonijnej, uspokajającej strukturze sprawdzi się we wnętrzach klasycznych i nowoczesnych, dodając im miękkości, elegancji i komfortu. Vela posiada również funkcję water repellent — bez fluorokarbonów.",
+     "c4": "Vela is an elegant knitted fabric with a soft, chenille-like surface where matte and delicately shimmering areas blend like rippling water. Its subtle mélange is created through the use of cationic and standard yarns, each absorbing dye differently and forming a refined interplay of depth and movement.\nThe palette of 23 rich shades ranges from versatile beiges and greys to deep chocolate, elegant caramel, sand, and nature-inspired tones such as moss, sage, and sky blue. With its serene, harmonious character, Vela beautifully complements both classic and contemporary interiors, bringing warmth and understated sophistication. Vela is also water repellent – fluorocarbon-free.",
+     "c5": "WR C0\n(pfas free)",
+     "c6": "/ dodatkową funkcję Water Repellent C0, czyli fluorocarbon free\n/ 23 kolory",
+     "c7": "/ additional Water Repellent C0 function - fluorocarbon free\n/ 23 colors"
+    }
+   ]
+  },
+  {
+   "name": "KONTRAKT",
+   "columns": [
+    {
+     "key": "c0",
+     "label": "Lp."
+    },
+    {
+     "key": "c1",
+     "label": "nazwa kolekcji"
+    },
+    {
+     "key": "c2",
+     "label": "rok"
+    },
+    {
+     "key": "c3",
+     "label": "opis PL"
+    },
+    {
+     "key": "c4",
+     "label": "opis ENG"
+    },
+    {
+     "key": "c5",
+     "label": "funkcja"
+    },
+    {
+     "key": "c6",
+     "label": "przeznaczenie"
+    }
+   ],
+   "rows": [
+    {
+     "c0": "1",
+     "c1": "ADVENTURE",
+     "c2": "2025",
+     "c3": "ADVENTURE to kolekcja o splocie z miękkiej przędzy boucle. Jej charakter definiuje wielokolorowa nitka z indywidualnie barwionych włókien, tworząca nieregularną, organiczną fakturę. Paleta barw obejmuje stonowane kompozycje, nasycone odcienie oraz zaskakujące kontrasty. Barwienie metodą Dope Dyed zapewnia wysoką trwałość koloru.",
+     "c4": "ADVENTURE is a collection with a weave made from soft bouclé yarn. Its character is defined by a multicolored thread composed of individually dyed fibers, creating an irregular, organic texture. The color palette includes muted combinations, saturated shades, and surprising contrasts. The Dope Dyed process ensures excellent color durability.",
+     "c5": "x",
+     "c6": "tapicerka soft"
+    },
+    {
+     "c0": "2",
+     "c1": "COCO",
+     "c2": "2023",
+     "c3": "COCO to elegancka, współczesna tkanina o dużej gramaturze i bogatej, mięsistej strukturze. Przeplatana pętelkową przędzą bouclé oraz wielobarwnymi nitkami, zyskuje głębię i luksusowy charakter. COCO doskonale sprawdza się nie tylko jako tkanina obiciowa, ale również na panele ścienne, wezgłowia i dodatki dekoracyjne, wnosząc do wnętrza styl i wyrafinowany komfort.",
+     "c4": "COCO is an elegant, contemporary heavy-weight fabric with a rich, substantial texture. Interwoven with bouclé loop yarn and multicolored threads, it gains depth and a luxurious character. COCO works perfectly not only as upholstery fabric, but also for wall panels, headboards, and decorative accessories—bringing style and refined comfort to any interior.",
+     "c5": "x",
+     "c6": "tapicerka soft"
+    },
+    {
+     "c0": "3",
+     "c1": "CREMONA",
+     "c2": "2024",
+     "c3": "CREMONA to miękka tkanina szenilowa o jedwabistym połysku. Wyrazista, trójwymiarowa faktura i dojrzała paleta barw czynią ją idealnym wyborem zarówno do klasycznych, jak i współczesnych wnętrz w stylu Mid-Century Modern. Doskonale komponuje się z ciemnym drewnem, mosiądzem i kamieniem o wyraźnym użyleniu.",
+     "c4": "CREMONA is a soft chenille fabric with a silky sheen. Its distinct three-dimensional effect and mature color palette make it a perfect fit for both traditional and contemporary, richer interpretations of the Mid-Century style. It pairs beautifully with dark, warm woods, brass, and boldly veined stone.",
+     "c5": "x",
+     "c6": "hospitality"
+    },
+    {
+     "c0": "4",
+     "c1": "ELEGANT WISH",
+     "c2": "2023",
+     "c3": "ELEGANT WISH to bardzo przyjemna w dotyku tkanina w stylu bouclé. Jest to tkanina żakardowa, utkana z przędz w różnych kolorach, które tworzą intrygujący efekt melanżu. Starannie dobrana paleta barw sprawia, że kolekcja wnosi do wnętrz subtelny, elegancki i stylowy charakter.",
+     "c4": "ELEGANT WISH is a bouclé-style fabric with a very pleasant hand feel. Woven as a jacquard from yarns in different colors, it creates an intriguing melange effect. A carefully curated color palette gives the collection a subtle, elegant, and stylish character.",
+     "c5": "x",
+     "c6": "tapicerka soft"
+    },
+    {
+     "c0": "5",
+     "c1": "GRACE",
+     "c2": "2020",
+     "c3": "GRACE to szlachetna plecionka o grubym, charakterystycznym splocie z wielokolorowej przędzy. Inspirowana naturą, dobrze komponuje się zarówno z klasycznymi, jak i nowoczesnymi wnętrzami. 70% zastosowanej przędzy stanowi rPES pochodzący z recyklingu. Kolekcja łączy design z funkcjonalnością. GRACE posiada funkcję Easy Clean. Tkanina wykończona jest specjalną apreturą ułatwiającą usuwanie zabrudzeń. Pozwala usunąć większość codziennych zabrudzeń samą wodą i szarym mydłem — bez detergentów i rozpuszczalników.",
+     "c4": "GRACE is a refined woven fabric with a thick, distinctive weave made from multicolored yarn. Inspired by nature, it blends well with both classic and modern interiors. 70% of the yarn used is recycled rPES. The collection combines design with functionality. GRACE features an Easy Clean function. The fabric is finished with a special treatment that makes dirt easier to remove. Most everyday stains can be removed with just water and grey soap — no detergents or solvents.",
+     "c5": "EC+rPES",
+     "c6": "tapicerka soft"
+    },
+    {
+     "c0": "6",
+     "c1": "LARS",
+     "c2": "2020",
+     "c3": "LARS to tkanina o wyrazistym, strukturalnym splocie i nowoczesnym, stonowanym wyglądzie. Niezwykle wytrzymała – odporna na intensywne użytkowanie (ponad 300 000 cykli Martindale’a). Idealna do biur, przestrzeni komercyjnych i publicznych. Barwiona metodą Dope Dyed, wyróżnia się wysoką trwałością koloru. Jej zrównoważona paleta kolorów łączy funkcjonalność z elegancją, podkreślając formę mebli i harmonijnie wpisując się w estetykę nowoczesnego minimalizmu.",
+     "c4": "LARS is a fabric with a pronounced, structural weave and a modern, understated look. It is extremely durable and highly resistant to intensive use—boasting over 300,000 Martindale cycles. Perfect for office, commercial, and public-space furniture. Dyed using the Dope Dyed method, it offers excellent color durability. Its well-balanced color palette combines functionality with elegance, enhancing furniture silhouettes and fitting seamlessly into modern minimalist aesthetics.",
+     "c5": "x",
+     "c6": "tapicerka biurowa"
+    },
+    {
+     "c0": "7",
+     "c1": "LUKKA",
+     "c2": "2023",
+     "c3": "LUKKA to strukturalna tkanina o melanżowym, dwutonowym wyglądzie. Trendowa kolekcja w naturalnej, stonowanej kolorystyce. LUKKA jest hydrofobowa – pokryta specjalną powłoką ochronną, która tworzy barierę przed wodą. Połączenie designu i praktyczności.",
+     "c4": "LUKKA is a textured fabric with a melange, two-tone look. This on-trend collection comes in a natural, muted color palette. LUKKA is hydrophobic—coated with a special protective finish that creates a barrier against water. A perfect blend of design and practicality.",
+     "c5": "WR",
+     "c6": "tapicerka soft"
+    },
+    {
+     "c0": "8",
+     "c1": "LUMI",
+     "c2": "2025",
+     "c3": "LUMI to tkanina wykonana z trzech rodzajów przędzy, tworząca delikatny, nieregularny wzór z subtelnym połyskiem. Jej powierzchnia zmienia się w zależności od kąta patrzenia, dając efekt opalizacji. Dominują beże, zielenie i brązy, uzupełnione o zaskakujące, dwutonowe zestawienia. LUMI łączy elegancję z trwałością koloru, którą zapewnia barwienie w masie (Dope Dyed).",
+     "c4": "LUMI is a fabric made from three types of yarn, creating a delicate, irregular pattern with a subtle sheen. Its surface changes depending on the viewing angle, producing an opalescent effect. The palette is dominated by beiges, greens, and browns, complemented by surprising two-tone combinations. LUMI combines elegance with lasting color thanks to the Dope Dyed process.",
+     "c5": "x",
+     "c6": "hospitality"
+    },
+    {
+     "c0": "9",
+     "c1": "MATT VELVET",
+     "c2": "2020",
+     "c3": "MATT VELVET to dzianina, w której delikatność weluru i matowe wykończenie nadają wyjątkową elegancję. Miękka, puszysta i dostępna w bardzo szerokiej gamie kolorów. Zachwyca wyglądem, a dzięki powłoce hydrofobowej skutecznie chroni przed wchłanianiem płynów. Inspirowana skandynawskim minimalizmem, MATT VELVET łączy piękno z funkcjonalnością.",
+     "c4": "MATT VELVET is a knit fabric where the delicacy of velvet and a matte finish create exceptional elegance. Soft, plush, and available in a very wide color palette, it is visually stunning. A protective hydrophobic finish helps prevent spilled liquids from soaking in. Inspired by Scandinavian minimalism, MATT VELVET is a blend of beauty and functionality.",
+     "c5": "WR",
+     "c6": "tapicerka biurowa"
+    },
+    {
+     "c0": "10",
+     "c1": "MISTERIO",
+     "c2": "2025",
+     "c3": "MISTERIO zachwyca głębią i subtelną elegancją. Melanżowa struktura oraz starannie dobrana gama kolorystyczna dodają tkaninie wyrazistości i wymiaru, idealnie podkreślając formy mebli. Jej interesujący, organiczny charakter wynika z użycia miękkiej przędzy sznurkowej oraz nieregularnego splotu, tworząc efekt pełen naturalnej swobody i wyrazu.",
+     "c4": "MISTERIO enchants with depth and subtle elegance. Its melange structure and carefully composed color line add dimension and character, beautifully highlighting furniture forms. Its intriguing, organic feel comes from the use of soft cord yarn and an irregular weave, creating a naturally expressive, textured look.",
+     "c5": "x",
+     "c6": "hospitality"
+    },
+    {
+     "c0": "11",
+     "c1": "MOLY",
+     "c2": "2022",
+     "c3": "MOLY to szenilowa tkanina idealnie wpisująca się w aktualne trendy. Wykonana z włókien o dwóch grubościach i kolorach, tworzy regularny, rytmiczny wzór. Miękka w dotyku, dostępna w szerokiej gamie barw, pięknie podkreśla kształt mebli. MOLY jest hydrofobowa – pokryta specjalną powłoką ochronną, która utrudnia wchłanianie rozlanych płynów.",
+     "c4": "MOLY is a chenille fabric that fits perfectly with current trends. Made from fibers in two different thicknesses and colors, it creates a regular, rhythmic pattern. Soft to the touch and available in a wide range of colors, it beautifully highlights the shape of furniture. MOLY is also hydrophobic—coated with a special protective finish that helps prevent spilled liquids from being absorbed.",
+     "c5": "WR",
+     "c6": "tapicerka soft"
+    },
+    {
+     "c0": "12",
+     "c1": "MOSSA",
+     "c2": "2024",
+     "c3": "MOSSA wyróżnia się drobnym, minimalistycznym splotem, który z daleka wydaje się gładki i jednolity. Z bliska ujawnia subtelne niuanse i kontrasty kolorystyczne. Zainspirowana połączeniem tradycji z nowoczesnością, łączy melanż dwóch rodzajów przędzy, z których każda zawiera trzy odcienie. Barwiona metodą Dope Dyed, wyróżnia się wysoką trwałością kolorów. Naturalna paleta ziemistych barw czyni ją uniwersalną dla wnętrz w duchu modernizmu.",
+     "c4": "MOSSA is characterized by a fine, minimalist weave that appears smooth and uniform from afar. Up close, subtle details and color contrasts emerge. Inspired by the blend of tradition and modern aesthetics, it combines a melange of two different yarns, each featuring three distinct shades. Dyed using the Dope Dyed method, it delivers excellent color durability. Earthy tones and a neutral palette make it versatile for modernist-inspired interiors.",
+     "c5": "x",
+     "c6": "tapicerka biurowa"
+    },
+    {
+     "c0": "13",
+     "c1": "OVER THE HORIZON",
+     "c2": "2022",
+     "c3": "OVER THE HORIZON to miękka tkanina szenilowa o subtelnym, trójwymiarowym geometrycznym wzorze. Delikatnie wypukłe linie nadają jej lekkości i charakteru. Dostępna w bogatej, inspirującej palecie kolorów, która pięknie podkreśla formę mebli.",
+     "c4": "OVER THE HORIZON is a delicate, soft chenille fabric with a subtle 3D geometric pattern. With its gentle raised lines, the fabric feels both light and intriguing. Available in a rich and inspiring color palette that beautifully enhances furniture.",
+     "c5": "x",
+     "c6": "hospitality"
+    },
+    {
+     "c0": "14",
+     "c1": "PICO",
+     "c2": "2025",
+     "c3": "PICO to tkanina indoor/outdoor wykonana w 100% z włókna olefinowego – materiału wyjątkowo odpornego na promieniowanie UV i wilgoć. Barwiona metodą Dope Dyed, zapewnia wysoką trwałość koloru. Odporna na wodę morską i chlorowaną, zapewnia ochronę przeciwsłoneczną UPF >50, blokując 98% promieni UV. Nie zawiera PFAS.",
+     "c4": "PICO is an indoor/outdoor fabric made from 100% olefin fiber—a material exceptionally resistant to UV radiation and moisture. Dyed using the Dope Dyed method, it offers long-lasting color. Resistant to seawater and chlorinated water, it provides UPF >50 sun protection, blocking 98% of UV rays. It contains no PFAS.",
+     "c5": "OUTDOOR\n WR",
+     "c6": "outdoor"
+    },
+    {
+     "c0": "15",
+     "c1": "PUENTE",
+     "c2": "2024",
+     "c3": "PUENTE to współczesna klasyka. Strukturalny splot zbudowany z czterech rodzajów przędzy – różniących się fakturą i kolorem. Starannie dobrane zestawienia barw tworzą wzór, który z oddali zlewa się w miękki melanż. Inspirowana klasycznymi tkaninami z lat 60., zyskała nowoczesną paletę kolorów. PUENTE doskonale odnajduje się w eklektycznych, klasycznych wnętrzach pełnych faktur, detali i charakteru.",
+     "c4": "PUENTE is contemporary classic. A structural weave made from four types of yarns—different in both texture and color. Carefully chosen color compositions create a pattern that blends into a soft melange when viewed from a distance. Inspired by classic weaves of the 1960s, updated with modern colors, PUENTE is perfect for eclectic, classic interiors full of textures, details, and character.",
+     "c5": "x",
+     "c6": "hospitality"
+    },
+    {
+     "c0": "16",
+     "c1": "RIVIERA",
+     "c2": "2016",
+     "c3": "RIVIERA to wyjątkowo delikatna i miękka dzianina welurowa o eleganckim wykończeniu. Bogata paleta barw nadaje jej szlachetny wygląd. RIVIERA idealnie sprawdza się nie tylko na meblach, ale także w dodatkach – poduszkach dekoracyjnych czy narzutach. Może być zadrukowana dowolnym wzorem, wprowadzając do wnętrza indywidualny charakter.",
+     "c4": "RIVIERA is an exceptionally delicate and soft velvet knit with an elegant finish. Its rich color palette gives it a refined, sophisticated look. RIVIERA works perfectly not only for furniture, but also for accessories such as decorative cushions and throws. It can be printed with any design, adding a unique, personalized character to the interior.",
+     "c5": "x",
+     "c6": "hospitality"
+    },
+    {
+     "c0": "17",
+     "c1": "RUNO",
+     "c2": "2025",
+     "c3": "RUNO to dzianina inspirowana leśnym runem i naturalnym welwetem. Matowa i delikatnie melanżowa, wnosi do wnętrz spokój i harmonię. Krótkie włosie oraz naturalna kolorystyka – od szałwii i mchu, przez terakotę, rdzę, po szeroką gamę beży i brązów – sprawiają, że RUNO znakomicie odnajduje się w przestrzeniach przytulnych i ponadczasowych. Idealna do mebli, które mają być tłem dla codzienności. RUNO posiada właściwości hydrofobowe.",
+     "c4": "RUNO is a knit inspired by forest undergrowth and natural velvet. Matte and gently melange, it brings calm and harmony into interiors. Its short pile and earthy tones—sage, moss, terracotta, rust, and a wide range of beiges and browns—make it perfect for warm, timeless spaces. Ideal for furniture designed to complement everyday life. RUNO features hydrophobic properties.",
+     "c5": "x",
+     "c6": "hospitality"
+    },
+    {
+     "c0": "18",
+     "c1": "SILENCIO",
+     "c2": "2025",
+     "c3": "SILENCIO to tkanina z bogatą, oryginalną i taktylną strukturą. Jest naszą odpowiedzią na obecne trendy w modzie i architekturze wnętrz na teksturalne, grube plecionki o rzemieślniczym charakterze. Tkanina składa się z trzech rodzajów przędz: miękkiej szenilowej, multikolorowej przędzy bouclé oraz filamentowej przędzy w osnowie. Posiada delikatny połysk, który nadaje jej szlachetnego, a zarazem przytulnego charakteru.",
+     "c4": "SILENCIO is a fabric with a rich, original, and highly tactile texture. It is our response to current trends in fashion and interior architecture – textural, chunky weaves with a craft-inspired character. The fabric combines three types of yarn: soft chenille, multicolored bouclé yarn, and filament yarn in the warp. A subtle sheen adds a refined yet cozy feel.",
+     "c5": "x",
+     "c6": "hospitality"
+    },
+    {
+     "c0": "19",
+     "c1": "STORM",
+     "c2": "2022",
+     "c3": "STORM to kolekcja inspirowana surową energią natury. Jej wyrazisty splot i melanżowe odcienie tworzą dynamiczny, a zarazem harmonijny efekt, przywołujący obraz zmieniającego się nieba. Miękka i przyjemna w dotyku, łączy trwałość z odważnym, ekspresyjnym stylem, który doskonale pasuje do nowoczesnych i eklektycznych wnętrz. STORM posiada funkcję Easy Clean. Tkanina wykończona jest specjalną apreturą ułatwiającą usuwanie zabrudzeń. Pozwala usunąć większość codziennych zabrudzeń samą wodą i szarym mydłem — bez detergentów i rozpuszczalników.",
+     "c4": "STORM is a collection inspired by the raw energy of nature. Its distinctive weave and melange tones create a dynamic yet harmonious effect, evoking the atmosphere of shifting skies. Soft and pleasant to the touch, STORM blends durability with a bold, expressive style that enhances both modern and eclectic interiors. It features an Easy Clean finish – a special treatment that makes dirt easier to remove. Most everyday stains can be removed with just water and grey soap — no detergents or solvents.",
+     "c5": "EC",
+     "c6": "tapicerka biurowa"
+    },
+    {
+     "c0": "20",
+     "c1": "SUNLIGHT",
+     "c2": "2025",
+     "c3": "SUNLIGHT to lekka tkanina o prostym splocie, idealna na meble ogrodowe, pufy, poduszki i dodatki. Wykonana w 100% z włókna olefinowego, odporna na warunki zewnętrzne i promieniowanie UV. Barwiona metodą Dope Dyed – niezwykle trwała kolorystycznie. Kolekcja ta posiada powłokę hydrofobową, skutecznie chroniącą przed wodą, wilgocią i zabrudzeniami. Nie zawiera PFAS.",
+     "c4": "SUNLIGHT is a lightweight, plain-weave fabric—perfect for outdoor furniture, pouffes, cushions, and accessories. Made from 100% olefin fiber, it is resistant to outdoor conditions and UV radiation. Dyed using the Dope Dyed method, it offers exceptional color durability. This collection also features a hydrophobic finish that effectively protects against water, moisture, and stains. It contains no PFAS.",
+     "c5": "OUTDOOR \nWR",
+     "c6": "outdoor"
+    }
+   ]
+  }
+ ]
+}
